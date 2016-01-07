@@ -115,5 +115,69 @@ msgid "This addon can only be run from within Pulsar"
 # Pulsar daemon
 
 msgctxt "#32000"
-msgid "Info"
+msgid "Cache cleared"
+""
+
+msgctxt "#32001"
+msgid "Search TV Shows"
+""
+
+msgctxt "#32002"
+msgid "Choose Stream..."
+""
+
+msgctxt "#32003"
+msgid "Movie Information"
+""
+
+msgctxt "#32004"
+msgid "Unable to find any providers"
+""
+
+msgctxt "#32005"
+msgid "No links were found"
+""
+
+msgctxt "#32006"
+msgid "Search Movies"
+""
+
+msgctxt "#32007"
+msgid "Not enough space available on the download path."
+""
+
+msgctxt "#32008"
+msgid "Pulsar daemon has started"
+""
+
+msgctxt "#32009"
+msgid "Search"
+""
+
+msgctxt "#32010"
+msgid "Most Popular"
+""
+
+msgctxt "#32011"
+msgid "Top Rated"
+""
+
+msgctxt "#32012"
+msgid "Most Voted"
+""
+
+msgctxt "#32013"
+msgid "IMDB Top 250"
+""
+
+msgctxt "#32014"
+msgid "Movies"
+""
+
+msgctxt "#32015"
+msgid "TV Shows"
+""
+
+msgctxt "#32016"
+msgid "Paste URL"
 ""

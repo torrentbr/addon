@@ -20,6 +20,7 @@ $(ZIP_FILE):
 	git archive --format zip --prefix $(NAME)/ --output $(ZIP_FILE) HEAD
 	mkdir -p $(NAME)/resources/bin
 	ln -s `pwd`/addon.xml $(NAME)
+	#sed s/VERSION/$(VERSION)/g < addon.xml > $(NAME)/addon.xml
 	zip -9 -r -g $(ZIP_FILE) $(NAME)/addon.xml
 	for arch in $(ARCHS); do \
 		ln -s `pwd`/resources/bin/$$arch $(NAME)/resources/bin/$$arch; \
@@ -35,4 +36,5 @@ zipfiles: addon.xml
 zip: $(ZIP_FILE)
 
 clean:
+	rm -f $(ZIP_FILE)
 	rm -rf $(NAME)

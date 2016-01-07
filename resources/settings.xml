@@ -6,6 +6,7 @@
         <setting id="keep_files" type="bool" label="Keep files after playback/download stops" default="false" />
 
         <setting label="BitTorrent" type="lsep"/>
+        <setting id="buffer_size" label="Buffer Size (MB)" type="number" default="20" />
         <setting id="max_upload_rate" label="Max Upload Rate (kB/s)" type="number" default="" />
         <setting id="max_download_rate" label="Max Download Rate (kB/s)" type="number" default="" />
         <setting id="listen_port_min" label="Listen Port Min" type="number" default="6889" />

@@ -222,3 +222,8 @@ msgctxt "#32016"
 msgid "Paste URL"
 msgstr "Inserir URL"
 ""
+
+msgctxt "#32017"
+msgid "Paste Magnet or URL"
+msgstr "Insira o Magnet ou URL"
+""

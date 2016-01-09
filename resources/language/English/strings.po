@@ -181,3 +181,7 @@ msgid "TV Shows"
 msgctxt "#32016"
 msgid "Paste URL"
 ""
+
+msgctxt "#32017"
+msgid "Paste Magnet or URL"
+""

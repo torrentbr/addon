@@ -119,6 +119,11 @@ msgid "Clear cache"
 msgstr "Apagar cache"
 ""
 
+msgctxt "#30021"
+msgid "Enable Paging"
+msgstr "Activar Paginação"
+""
+
 # Interface
 
 msgctxt "#31000"
@@ -165,7 +170,7 @@ msgstr "Não foi possível encontrar providers"
 
 msgctxt "#32005"
 msgid "No links were found"
-msgstr "No foram encontrados links"
+msgstr "Não foram encontrados links"
 ""
 
 msgctxt "#32006"
@@ -226,4 +231,9 @@ msgstr "Inserir URL"
 msgctxt "#32017"
 msgid "Paste Magnet or URL"
 msgstr "Insira o Magnet ou URL"
+""
+
+msgctxt "#32018"
+msgid "Next Page"
+msgstr "Próxima Página"
 ""

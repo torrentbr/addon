@@ -98,6 +98,10 @@ msgctxt "#30020"
 msgid "Clear cache"
 ""
 
+msgctxt "#30021"
+msgid "Enable Paging"
+""
+
 # Interface
 
 msgctxt "#31000"
@@ -184,4 +188,8 @@ msgid "Paste URL"
 
 msgctxt "#32017"
 msgid "Paste Magnet or URL"
+""
+
+msgctxt "#32018"
+msgid "Next Page"
 ""

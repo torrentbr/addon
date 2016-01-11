@@ -104,92 +104,92 @@ msgid "Enable Paging"
 
 # Interface
 
-msgctxt "#31000"
+msgctxt "#30100"
 msgid "Pulsar has crashed, restarting..."
 ""
 
-msgctxt "#31001"
+msgctxt "#30101"
 msgid "You must restart XBMC before using Pulsar"
 ""
 
-msgctxt "#31002"
+msgctxt "#30102"
 msgid "This addon can only be run from within Pulsar"
 ""
 
 # Pulsar daemon
 
-msgctxt "#32000"
+msgctxt "#30200"
 msgid "Cache cleared"
 ""
 
-msgctxt "#32001"
+msgctxt "#30201"
 msgid "Search TV Shows"
 ""
 
-msgctxt "#32002"
+msgctxt "#30202"
 msgid "Choose Stream..."
 ""
 
-msgctxt "#32003"
+msgctxt "#30203"
 msgid "Movie Information"
 ""
 
-msgctxt "#32004"
+msgctxt "#30204"
 msgid "Unable to find any providers"
 ""
 
-msgctxt "#32005"
+msgctxt "#30205"
 msgid "No links were found"
 ""
 
-msgctxt "#32006"
+msgctxt "#30206"
 msgid "Search Movies"
 ""
 
-msgctxt "#32007"
+msgctxt "#30207"
 msgid "Not enough space available on the download path."
 ""
 
-msgctxt "#32008"
+msgctxt "#30208"
 msgid "Pulsar daemon has started"
 ""
 
-msgctxt "#32009"
+msgctxt "#30209"
 msgid "Search"
 ""
 
-msgctxt "#32010"
+msgctxt "#30210"
 msgid "Most Popular"
 ""
 
-msgctxt "#32011"
+msgctxt "#30211"
 msgid "Top Rated"
 ""
 
-msgctxt "#32012"
+msgctxt "#30212"
 msgid "Most Voted"
 ""
 
-msgctxt "#32013"
+msgctxt "#30213"
 msgid "IMDB Top 250"
 ""
 
-msgctxt "#32014"
+msgctxt "#30214"
 msgid "Movies"
 ""
 
-msgctxt "#32015"
+msgctxt "#30215"
 msgid "TV Shows"
 ""
 
-msgctxt "#32016"
+msgctxt "#30216"
 msgid "Paste URL"
 ""
 
-msgctxt "#32017"
+msgctxt "#30217"
 msgid "Paste Magnet or URL"
 ""
 
-msgctxt "#32018"
+msgctxt "#30218"
 msgid "Next Page"
 ""

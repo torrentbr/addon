@@ -124,6 +124,11 @@ msgid "Enable Paging"
 msgstr "Activar Paginação"
 ""
 
+msgctxt "#30022"
+msgid "Enable Overlay Status Bar"
+msgstr "Activar Barra de Estado Sobreposta"
+""
+
 # Interface
 
 msgctxt "#30100"

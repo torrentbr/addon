@@ -102,6 +102,10 @@ msgctxt "#30021"
 msgid "Enable Paging"
 ""
 
+msgctxt "#30022"
+msgid "Enable Overlay Status Bar"
+""
+
 # Interface
 
 msgctxt "#30100"

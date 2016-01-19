@@ -17,7 +17,7 @@ Supported platforms
 
 Download
 --------
-See the [Releases](https://github.com/steeve/plugin.video.pulsar/releases) page.
+See the [Releases](https://github.com/i96751414/plugin.video.pulsar/releases) page.
 
 
 Installation

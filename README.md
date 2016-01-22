@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/E7gzyfI.png)
 
+[![Build Status](https://travis-ci.org/scakemyer/plugin.video.pulsar.svg?branch=master)](https://travis-ci.org/scakemyer/plugin.video.pulsar)
 
 What it is
 ----------

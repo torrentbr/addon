@@ -1,0 +1,199 @@
+# Kodi Media Center language file
+# Addon Name: Pulsar
+# Addon id: plugin.video.pulsar
+# Addon Provider: steeve
+msgid ""
+msgstr ""
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+
+msgctxt "כללי"
+msgid "General"
+""
+
+msgctxt "נתיב להורדה (לא FAT32))"
+msgid "Download Path (NOT FAT32)"
+""
+
+msgctxt "שמירת הקבצים לאחר סיום הצפיה/הורדה"
+msgid "Keep files after playback/download stops)"
+""
+
+msgctxt "גודל הבאפר (MB)"
+msgid "Buffer Size (MB)"
+""
+
+msgctxt "קצב העלאה מרבי (kB/s)"
+msgid "Max Upload Rate (kB/s)"
+""
+
+msgctxt "קצב הורדה מרבי (kB/s)"
+msgid "Max Download Rate (kB/s)"
+""
+
+msgctxt "פורט האזנה מינמלי"
+msgid "Listen Port Min"
+""
+
+msgctxt "פורט האזנה מקסימלי"
+msgid "Listen Port Max"
+""
+
+msgctxt "פרוקסי"
+msgid "Proxy"
+""
+
+msgctxt "הגדרות SOCKS v5"
+msgid "SOCKS v5 Configuration"
+""
+
+msgctxt "מופעל"
+msgid "Enabled"
+""
+
+msgctxt "הוסט"
+msgid "Host"
+""
+
+msgctxt "פורט"
+msgid "Port"
+""
+
+msgctxt "שם משתמש"
+msgid "Login"
+""
+
+msgctxt "ססמה"
+msgid "Password"
+""
+
+msgctxt "מתקדם"
+msgid "Advanced"
+""
+
+msgctxt "הגדרת Timeout מותאם"
+msgid "Custom Provider Timeout"
+""
+
+msgctxt "הפעלה (השימוש באחריותך)"
+msgid "Enabled (use at your own risk)"
+""
+
+msgctxt "Timeout בשניות"
+msgid "Timeout in seconds"
+""
+
+msgctxt "אחזקה"
+msgid "Maintenance"
+""
+
+msgctxt "ניקוי cache"
+msgid "Clear cache"
+""
+
+msgctxt "הפעלת עימוד"
+msgid "Enable Paging"
+""
+
+msgctxt "הפעלת שורת מצב"
+msgid "Enable Overlay Status Bar"
+""
+
+# Interface
+
+msgctxt "Pulsar קרס. מופעל מחדש"
+msgid "Pulsar has crashed, restarting..."
+""
+
+msgctxt "יש צורך בהפעלת Kodi מחדש על מנת להשתמש ב Pulsar"
+msgid "You must restart XBMC before using Pulsar"
+""
+
+msgctxt "ה Addon יכול לעבוד רק מתוך Pulsar"
+msgid "This addon can only be run from within Pulsar"
+""
+
+# Pulsar daemon
+
+msgctxt "נוקה Cache"
+msgid "Cache cleared"
+""
+
+msgctxt "חיפוש תוכניות טלוויזיה"
+msgid "Search TV Shows"
+""
+
+msgctxt "זרימה מותאמת אישית"
+msgid "Choose Stream..."
+""
+
+msgctxt "מידע על הסרט"
+msgid "Movie Information"
+""
+
+msgctxt "לא נצאו Providers כלל"
+msgid "Unable to find any providers"
+""
+
+msgctxt "לא נמצאו קישורים"
+msgid "No links were found"
+""
+
+msgctxt "חיפוש סרטים"
+msgid "Search Movies"
+""
+
+msgctxt "אין מספיק מקום בנתיב ההורדה"
+msgid "Not enough space available on the download path."
+""
+
+msgctxt "שירות Pulsar החל"
+msgid "Pulsar daemon has started"
+""
+
+msgctxt "חיפוש"
+msgid "Search"
+""
+
+msgctxt "הכי פופולרי"
+msgid "Most Popular"
+""
+
+msgctxt "#30211"
+msgid "Top Rated"
+""
+
+msgctxt "הכי הרבה הצבעות"
+msgid "Most Voted"
+""
+
+msgctxt "IMDB Top 250"
+msgid "IMDB Top 250"
+""
+
+msgctxt "סרטים"
+msgid "Movies"
+""
+
+msgctxt "תוכניות טלוויזיה"
+msgid "TV Shows"
+""
+
+msgctxt "הדבקת כתובת"
+msgid "Paste URL"
+""
+
+msgctxt "הדבקת קישור מגנט או קישור"
+msgid "Paste Magnet or URL"
+""
+
+msgctxt "עמוד הבא"
+msgid "Next Page"
+""

@@ -17,7 +17,7 @@ Supported platforms
 
 Download
 --------
-See the [Releases](https://github.com/steeve/plugin.video.pulsar/releases) page.
+See the [Releases](https://github.com/i96751414/plugin.video.pulsar/releases) page.
 
 
 Installation
@@ -25,11 +25,6 @@ Installation
 - Install Pulsar like any other addon
 - Go in Settings > Services > Remote Control and **enable both options**
 - Restart XBMC
-
-
-Follow [@pulsarhq](http://twitter.com/pulsarhq) on Twitter
-----------------------------------------------------------
-[![](http://i.imgur.com/B5hiGN4.png)](http://twitter.com/pulsarhq)
 
 
 How it works
@@ -57,7 +52,7 @@ Providers
 ---------
 As said before, Pulsar **relies on providers to find streams**. Providers are easy to write, and average ~20 lines of Python. As they are normal XBMC addons, which can have their own configuration (although it is not recommended because it complicates things).
 
-Sample Pulsar provider: [https://github.com/steeve/script.pulsar.dummy](https://github.com/steeve/script.pulsar.dummy)
+Sample Pulsar provider: [https://github.com/i96751414/script.pulsar.dummy](https://github.com/i96751414/script.pulsar.dummy)
 
 Providers are given a max amount of time to run before Pulsar considers them to be too slow. The timeouts are as follow:
 - 4 seconds on Intel CPUs

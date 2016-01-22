@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.pulsar" name="Pulsar" version="VRSION" provider-name="steeve, i96751414">
+<addon id="plugin.video.pulsar" name="Pulsar" version="VERSION" provider-name="steeve, i96751414">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>

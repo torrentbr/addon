@@ -29,7 +29,7 @@ make
 
 Download
 --------
-See the [Releases](https://github.com/i96751414/plugin.video.pulsar/releases) page.
+See the [Releases](https://github.com/scakemyer/plugin.video.pulsar/releases) page.
 
 
 Installation

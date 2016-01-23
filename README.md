@@ -1,4 +1,4 @@
-![](http://i.imgur.com/E7gzyfI.png)
+![](https://i.imgur.com/A2MNj7I.png)
 
 [![Build Status](https://travis-ci.org/scakemyer/plugin.video.pulsar.svg?branch=master)](https://travis-ci.org/scakemyer/plugin.video.pulsar)
 

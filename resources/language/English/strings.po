@@ -110,6 +110,10 @@ msgctxt "#30023"
 msgid "Enable Choose Stream by default"
 ""
 
+msgctxt "#30024"
+msgid "Get updates for Pre-Releases"
+""
+
 # Interface
 
 msgctxt "#30100"

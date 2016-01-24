@@ -106,6 +106,10 @@ msgctxt "#30022"
 msgid "Enable Overlay Status Bar"
 ""
 
+msgctxt "#30023"
+msgid "Enable Choose Stream by default"
+""
+
 # Interface
 
 msgctxt "#30100"

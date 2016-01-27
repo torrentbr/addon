@@ -1,10 +1,10 @@
-![](https://i.imgur.com/A2MNj7I.png)
+![](http://i.imgur.com/4eQhijh.png)
 
 [![Build Status](https://travis-ci.org/scakemyer/plugin.video.pulsar.svg?branch=master)](https://travis-ci.org/scakemyer/plugin.video.pulsar)
 
 What it is
 ----------
-Pulsar is an torrent finding and streaming engine. It doesn't go on torrent websites for legal reasons. However, it calls specially crafted addons (called providers) that are installed separately. They are normal XBMC addons, and thus can be installed/updated/distributed just like any other addon.
+Quasar is an torrent finding and streaming engine. It doesn't go on torrent websites for legal reasons. However, it calls specially crafted addons (called providers) that are installed separately. They are normal XBMC addons, and thus can be installed/updated/distributed just like any other addon.
 
 This project is a fork of the well known, but no longer maintained Pulsar project from [steeve](https://github.com/steeve).
 Big thanks for his great job.
@@ -35,17 +35,17 @@ See the [Releases](https://github.com/scakemyer/plugin.video.pulsar/releases) pa
 
 Installation
 ------------
-- Install Pulsar like any other addon
+- Install Quasar like any other addon
 - Go in Settings > Services > Remote Control and **enable both options**
 - Restart XBMC
 
 
 How it works
 ------------
-Pulsar is an torrent finding and streaming engine. **It doesn't go on torrent websites for legal reasons**. It calls specially crafted addons (called **providers**) that are installed separately. They are normal XBMC addons, and thus can be installed/updated/distributed just like any other addon.
+Quasar is a torrent finding and streaming engine. **It doesn't go on torrent websites for legal reasons**. It calls specially crafted addons (called **providers**) that are installed separately. They are normal XBMC addons, and thus can be installed/updated/distributed just like any other addon.
 
-Pulsar is centred around media: it browses media from [TheMovieDB](https://www.themoviedb.org/) and [TheTVDB](http://thetvdb.com/).
-And so, when you decide you want to watch a media (i.e. given an IMDB or TVDB Id), here's what Pulsar does:
+Quasar is centred around media: it browses media from [TheMovieDB](https://www.themoviedb.org/) and [TheTVDB](http://thetvdb.com/).
+And so, when you decide you want to watch a media (i.e. given an IMDB or TVDB Id), here's what Quasar does:
 
 - Enumerate the installed providers
 - Call each provider to find the media you want to watch (in parallel)
@@ -53,21 +53,21 @@ And so, when you decide you want to watch a media (i.e. given an IMDB or TVDB Id
 - Collects and de-duplicates all the links
 - Goes on the BitTorrent network to find out the number of seeds and peers in real time (i.e. not provided by the provider)
 - Finds out of which quality are the different links (thanks to their name)
-- Ranks the links by quality and availability (Pulsar privileges quality over availability, but it's not dumb. However, you can get a full list to choose from manually it you want)
+- Ranks the links by quality and availability (Quasar privileges quality over availability, but it's not dumb. However, you can get a full list to choose from manually it you want, or enable 'Choose Stream by default' to always choose manually)
 - Sends the chosen link to the BitTorrent streaming engine (brand new, and completely rewritten)
 
-All of this is done in less than 1s. Pulsar is around 95% Go, and thus, it's *fast*. Very fast, actually.
+All of this is done in less than 1s. Quasar is around 95% Go, and thus, it's *fast*. Very fast, actually.
 
 The BitTorrent streaming engine is brand new and very resilient (or at least it's designed to be). It's built on top of the brand new libtorrent 1.0 (which had special patches for the streaming case). So it's very optimised, especially for low CPU machines. I have yet to find a media that doesn't play with the engine.
 
 
 Providers
 ---------
-As said before, Pulsar **relies on providers to find streams**. Providers are easy to write, and average ~20 lines of Python. As they are normal XBMC addons, which can have their own configuration (although it is not recommended because it complicates things).
+As said before, Quasar **relies on providers to find streams**. Providers are easy to write, and average ~20 lines of Python. As they are normal XBMC addons, which can have their own configuration (although it is not recommended because it complicates things).
 
-Sample Pulsar provider: [https://github.com/steeve/script.pulsar.dummy](https://github.com/steeve/script.pulsar.dummy)
+Sample Quasar provider: [https://github.com/steeve/script.pulsar.dummy](https://github.com/steeve/script.pulsar.dummy)
 
-Providers are given a max amount of time to run before Pulsar considers them to be too slow. The timeouts are as follow:
+Providers are given a max amount of time to run before Quasar considers them to be too slow. The timeouts are as follow:
 - 4 seconds on Intel CPUs
 - 20 seconds on multicore ARM CPUs
 - 30 seconds on single core ARM CPUs (Raspberry Pi)

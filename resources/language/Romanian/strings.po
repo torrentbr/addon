@@ -23,7 +23,7 @@ msgid "Download Path (NOT FAT32)"
 msgstr "Calea spre descarcare (NU FAT32)"
 
 msgctxt "#30002"
-msgid "Keep files after playback/download stops)"
+msgid "Keep files after playback/download stops"
 msgstr "Pastreaza fisierele dupa reproducere"
 
 msgctxt "#30003"

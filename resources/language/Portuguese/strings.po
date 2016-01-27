@@ -23,7 +23,7 @@ msgid "Download Path (NOT FAT32)"
 msgstr "Pasta de Download (NÃO FAT32)"
 
 msgctxt "#30002"
-msgid "Keep files after playback/download stops)"
+msgid "Keep files after playback/download stops"
 msgstr "Manter ficheiros depois da reprodução/download parar"
 
 msgctxt "#30003"

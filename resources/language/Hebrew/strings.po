@@ -23,7 +23,7 @@ msgid "Download Path (NOT FAT32)"
 msgstr "נתיב להורדה (לא FAT32))"
 
 msgctxt "#30002"
-msgid "Keep files after playback/download stops)"
+msgid "Keep files after playback/download stops"
 msgstr "שמירת הקבצים לאחר סיום הצפיה/הורדה"
 
 msgctxt "#30003"

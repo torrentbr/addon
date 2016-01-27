@@ -2,7 +2,15 @@ NAME = plugin.video.pulsar
 GIT = git
 GIT_VERSION = $(shell $(GIT) describe --always)
 VERSION = $(shell sed -ne "s/.*version=\"\([0-9a-z\.\-]*\)\"\sprovider.*/\1/p" addon.xml)
-ARCHS = android_arm linux_x86 linux_x64 linux_arm darwin_x64 windows_x86 windows_x64
+ARCHS = \
+	android_arm \
+	android_x64 \
+	linux_x86 \
+	linux_x64 \
+	linux_arm \
+	darwin_x64 \
+	windows_x86 \
+	windows_x64
 ZIP_SUFFIX = zip
 ZIP_FILE = $(NAME)-$(VERSION).$(ZIP_SUFFIX)
 

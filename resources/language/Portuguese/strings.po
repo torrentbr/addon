@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Pulsar
-# Addon id: plugin.video.pulsar
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
 # Addon Provider: steeve
 msgid ""
 msgstr ""
@@ -109,18 +109,18 @@ msgstr "Activar Barra de Estado Sobreposta"
 # Interface
 
 msgctxt "#30100"
-msgid "Pulsar has crashed, restarting..."
-msgstr "Pulsar fechou de forma inesperada, a reiniciar..."
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar fechou de forma inesperada, a reiniciar..."
 
 msgctxt "#30101"
-msgid "You must restart XBMC before using Pulsar"
-msgstr "Deve reiniciar o Kodi antes de usar o Pulsar"
+msgid "You must restart XBMC before using Quasar"
+msgstr "Deve reiniciar o Kodi antes de usar o Quasar"
 
 msgctxt "#30102"
-msgid "This addon can only be run from within Pulsar"
-msgstr "Este addon apenas pode ser corrido pelo Pulsar"
+msgid "This addon can only be run from within Quasar"
+msgstr "Este addon apenas pode ser corrido pelo Quasar"
 
-# Pulsar daemon
+# Quasar daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -155,8 +155,8 @@ msgid "Not enough space available on the download path."
 msgstr "Sem espaço disponível na pasta de download."
 
 msgctxt "#30208"
-msgid "Pulsar daemon has started"
-msgstr "Pulsar daemon foi iniciado"
+msgid "Quasar daemon has started"
+msgstr "Quasar daemon foi iniciado"
 
 msgctxt "#30209"
 msgid "Search"

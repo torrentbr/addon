@@ -33,6 +33,6 @@
         <setting id="custom_provider_timeout_enabled" label="30017" type="bool" default="false" />
         <setting id="custom_provider_timeout" label="30018" type="number" default="4" visible="eq(-1,true)" />
         <setting label="30019" type="lsep"/>
-        <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.pulsar/cmd/clear_cache)" />
+        <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.quasar/cmd/clear_cache)" />
     </category>
 </settings>

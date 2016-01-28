@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Pulsar
-# Addon id: plugin.video.pulsar
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
 # Addon Provider: steeve
 msgid ""
 msgstr ""
@@ -109,18 +109,18 @@ msgstr "Activeaza Bara de Stare"
 # Interface
 
 msgctxt "#30100"
-msgid "Pulsar has crashed, restarting..."
-msgstr "Pulsar a intampinat probleme, se reporneste..."
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar a intampinat probleme, se reporneste..."
 
 msgctxt "#30101"
-msgid "You must restart XBMC before using Pulsar"
-msgstr "E necesar sa restartati XBMC inainte de utilizare Pulsar"
+msgid "You must restart XBMC before using Quasar"
+msgstr "E necesar sa restartati XBMC inainte de utilizare Quasar"
 
 msgctxt "#30102"
-msgid "This addon can only be run from within Pulsar"
-msgstr "Acest addon poate fi rulat doar din Pulsar"
+msgid "This addon can only be run from within Quasar"
+msgstr "Acest addon poate fi rulat doar din Quasar"
 
-# Pulsar daemon
+# Quasar daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -155,8 +155,8 @@ msgid "Not enough space available on the download path."
 msgstr "Loc insuficient in calea pentru download."
 
 msgctxt "#30208"
-msgid "Pulsar daemon has started"
-msgstr "Pulsar a startat"
+msgid "Quasar daemon has started"
+msgstr "Quasar a startat"
 
 msgctxt "#30209"
 msgid "Search"

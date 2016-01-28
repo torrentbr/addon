@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Pulsar
-# Addon id: plugin.video.pulsar
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
 # Addon Provider: steeve
 msgid ""
 msgstr ""
@@ -121,18 +121,18 @@ msgstr "Limit rates after buffering only"
 # Interface
 
 msgctxt "#30100"
-msgid "Pulsar has crashed, restarting..."
-msgstr "Pulsar has crashed, restarting..."
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar has crashed, restarting..."
 
 msgctxt "#30101"
-msgid "You must restart XBMC before using Pulsar"
-msgstr "You must restart XBMC before using Pulsar"
+msgid "You must restart XBMC before using Quasar"
+msgstr "You must restart XBMC before using Quasar"
 
 msgctxt "#30102"
-msgid "This addon can only be run from within Pulsar"
-msgstr "This addon can only be run from within Pulsar"
+msgid "This addon can only be run from within Quasar"
+msgstr "This addon can only be run from within Quasar"
 
-# Pulsar daemon
+# Quasar daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -167,8 +167,8 @@ msgid "Not enough space available on the download path."
 msgstr "Not enough space available on the download path."
 
 msgctxt "#30208"
-msgid "Pulsar daemon has started"
-msgstr "Pulsar daemon has started"
+msgid "Quasar daemon has started"
+msgstr "Quasar daemon has started"
 
 msgctxt "#30209"
 msgid "Search"

@@ -1,4 +1,4 @@
-NAME = plugin.video.pulsar
+NAME = plugin.video.quasar
 GIT = git
 GIT_VERSION = $(shell $(GIT) describe --always)
 VERSION = $(shell sed -ne "s/.*version=\"\([0-9a-z\.\-]*\)\"\sprovider.*/\1/p" addon.xml)

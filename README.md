@@ -1,12 +1,12 @@
 ![](http://i.imgur.com/4eQhijh.png)
 
-[![Build Status](https://travis-ci.org/scakemyer/plugin.video.pulsar.svg?branch=master)](https://travis-ci.org/scakemyer/plugin.video.pulsar)
+[![Build Status](https://travis-ci.org/scakemyer/plugin.video.quasar.svg?branch=master)](https://travis-ci.org/scakemyer/plugin.video.quasar)
 
 What it is
 ----------
 Quasar is an torrent finding and streaming engine. It doesn't go on torrent websites for legal reasons. However, it calls specially crafted addons (called providers) that are installed separately. They are normal XBMC addons, and thus can be installed/updated/distributed just like any other addon.
 
-This project is a fork of the well known, but no longer maintained Pulsar project from [steeve](https://github.com/steeve).
+This project is a fork of the well known, but no longer maintained Pulsar project from [steeve](https://github.com/steeve/plugin.video.pulsar).
 Big thanks for his great job.
 
 Supported platforms
@@ -19,9 +19,9 @@ Supported platforms
 
 Build
 -----
-If you want to build this plugin, feel free. First, build the pulsar daemon (see the [pulsar project](https://github.com/scakemyer/pulsar) for more information). Then, create a symlink, like this:
+If you want to build this plugin, feel free. First, build the quasar daemon (see the [quasar project](https://github.com/scakemyer/quasar) for more information). Then, create a symlink, like this:
 ```
-ln -s $GOPATH/src/github.com/scakemyer/pulsar/build ./resources/bin
+ln -s $GOPATH/src/github.com/scakemyer/quasar/build ./resources/bin
 ```
 and build the package:
 ```
@@ -30,7 +30,7 @@ make
 
 Download
 --------
-See the [Releases](https://github.com/scakemyer/plugin.video.pulsar/releases) page.
+See the [Releases](https://github.com/scakemyer/plugin.video.quasar/releases) page.
 
 
 Installation
@@ -65,7 +65,7 @@ Providers
 ---------
 As said before, Quasar **relies on providers to find streams**. Providers are easy to write, and average ~20 lines of Python. As they are normal XBMC addons, which can have their own configuration (although it is not recommended because it complicates things).
 
-Sample Quasar provider: [https://github.com/steeve/script.pulsar.dummy](https://github.com/steeve/script.pulsar.dummy)
+Sample Quasar provider: [https://github.com/steeve/script.quasar.dummy](https://github.com/steeve/script.quasar.dummy)
 
 Providers are given a max amount of time to run before Quasar considers them to be too slow. The timeouts are as follow:
 - 4 seconds on Intel CPUs

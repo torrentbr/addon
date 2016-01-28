@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Pulsar
-# Addon id: plugin.video.pulsar
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
 # Addon Provider: steeve
 msgid ""
 msgstr ""
@@ -109,18 +109,18 @@ msgstr "Activer la barre d'information en surimpression"
 # Interface
 
 msgctxt "#30100"
-msgid "Pulsar has crashed, restarting..."
-msgstr "Pulsar s'est crashé, redémarrage..."
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar s'est crashé, redémarrage..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Pulsar"
-msgstr "Vous devez redémarrer Kodi pour pouvoir utiliser Pulsar"
+msgid "You must restart Kodi before using Quasar"
+msgstr "Vous devez redémarrer Kodi pour pouvoir utiliser Quasar"
 
 msgctxt "#30102"
-msgid "This addon can only be run from within Pulsar"
-msgstr "Ce plugin ne peut être utilisé que depuis Pulsar"
+msgid "This addon can only be run from within Quasar"
+msgstr "Ce plugin ne peut être utilisé que depuis Quasar"
 
-# Pulsar daemon
+# Quasar daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -155,8 +155,8 @@ msgid "Not enough space available on the download path."
 msgstr "Pas assez d'espace disponible dans le répertoire de téléchargement"
 
 msgctxt "#30208"
-msgid "Pulsar daemon has started"
-msgstr "Le service Pulsar a démarré"
+msgid "Quasar daemon has started"
+msgstr "Le service Quasar a démarré"
 
 msgctxt "#30209"
 msgid "Search"

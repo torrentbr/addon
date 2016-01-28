@@ -68,7 +68,7 @@ As said before, Quasar **relies on providers to find streams**. Providers are ea
 Sample Quasar provider: [https://github.com/steeve/script.quasar.dummy](https://github.com/steeve/script.quasar.dummy)
 
 Providers are given a max amount of time to run before Quasar considers them to be too slow. The timeouts are as follow:
-- 4 seconds on Intel CPUs
+- 10 seconds on Intel CPUs
 - 20 seconds on multicore ARM CPUs
 - 30 seconds on single core ARM CPUs (Raspberry Pi)
 

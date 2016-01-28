@@ -65,7 +65,7 @@ Providers
 ---------
 As said before, Quasar **relies on providers to find streams**. Providers are easy to write, and average ~20 lines of Python. As they are normal XBMC addons, which can have their own configuration (although it is not recommended because it complicates things).
 
-Sample Quasar provider: [https://github.com/steeve/script.quasar.dummy](https://github.com/steeve/script.quasar.dummy)
+Sample Quasar provider: [https://github.com/scakemyer/script.quasar.dummy](https://github.com/scakemyer/script.quasar.dummy)
 
 Providers are given a max amount of time to run before Quasar considers them to be too slow. The timeouts are as follow:
 - 10 seconds on Intel CPUs

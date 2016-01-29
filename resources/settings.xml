@@ -7,7 +7,7 @@
         <setting id="keep_files" type="bool" label="30002" default="false" />
         <setting id="enable_paging" type="bool" label="30021" default="true" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
-        <setting id="enable_choose_stream" type="bool" label="30023" default="false" />
+        <setting id="choose_stream_auto" type="bool" label="30023" default="true" />
         <setting id="pre_release_updates" type="bool" label="30024" default="false" />
 
         <setting label="BitTorrent" type="lsep"/>

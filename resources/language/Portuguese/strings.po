@@ -109,7 +109,6 @@ msgstr "Activar Barra de Estado Sobreposta"
 msgctxt "#30023"
 msgid "Choose Stream Automatically"
 msgstr "Escolher Stream Automaticamente"
-""
 
 # Interface
 

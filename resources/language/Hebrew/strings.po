@@ -107,8 +107,8 @@ msgid "Enable Overlay Status Bar"
 msgstr "הפעלת שורת מצב מרחפת"
 
 msgctxt "#30023"
-msgid "Enable Choose Stream by default"
-msgstr "בחירה אוטומטית של מקור לניגון"
+msgid "Choose Stream Automatically"
+msgstr "בחירת אוטומטית של מקור לניגון"
 
 msgctxt "#30024"
 msgid "Get updates for Pre-Releases"

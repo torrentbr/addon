@@ -107,8 +107,8 @@ msgid "Enable Overlay Status Bar"
 msgstr "Enable Overlay Status Bar"
 
 msgctxt "#30023"
-msgid "Enable Choose Stream by default"
-msgstr "Enable Choose Stream by default"
+msgid "Choose Stream Automatically"
+msgstr "Choose Stream Automatically"
 
 msgctxt "#30024"
 msgid "Get updates for Pre-Releases"
@@ -209,3 +209,7 @@ msgstr "Paste Magnet or URL"
 msgctxt "#30218"
 msgid "Next Page"
 msgstr "Next Page"
+
+msgctxt "#30223"
+msgid "Play"
+msgstr "Play"

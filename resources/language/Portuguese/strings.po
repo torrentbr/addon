@@ -106,6 +106,10 @@ msgctxt "#30022"
 msgid "Enable Overlay Status Bar"
 msgstr "Activar Barra de Estado Sobreposta"
 
+msgctxt "#30023"
+msgid "Choose Stream Automatically"
+msgstr "Escolher Stream Automaticamente"
+
 # Interface
 
 msgctxt "#30100"
@@ -197,3 +201,7 @@ msgstr "Insira o Magnet ou URL"
 msgctxt "#30218"
 msgid "Next Page"
 msgstr "Próxima Página"
+
+msgctxt "#30223"
+msgid "Play"
+msgstr "Reproduzir"

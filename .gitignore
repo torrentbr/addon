@@ -22,7 +22,7 @@ var/
 .installed.cfg
 *.egg
 *.zip
-bin/
+# bin/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -52,4 +52,4 @@ docs/_build/
 target/
 
 # Other
-resources/bin
+# resources/bin

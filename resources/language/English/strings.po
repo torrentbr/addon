@@ -209,7 +209,3 @@ msgstr "Paste Magnet or URL"
 msgctxt "#30218"
 msgid "Next Page"
 msgstr "Next Page"
-
-msgctxt "#30223"
-msgid "Play"
-msgstr "Play"

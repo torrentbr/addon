@@ -201,7 +201,3 @@ msgstr "Insira o Magnet ou URL"
 msgctxt "#30218"
 msgid "Next Page"
 msgstr "Próxima Página"
-
-msgctxt "#30223"
-msgid "Play"
-msgstr "Reproduzir"

@@ -16,6 +16,11 @@ ZIP_FILE = $(NAME)-$(VERSION).$(ZIP_SUFFIX)
 
 all: clean zip
 
+.PHONY: $(ARCHS)
+
+$(ARCHS):
+	$(MAKE) zip ARCHS=$@ ZIP_SUFFIX=$@.zip
+
 $(ZIP_FILE):
 	git archive --format zip --prefix $(NAME)/ --output $(ZIP_FILE) HEAD
 	mkdir -p $(NAME)/resources/bin
@@ -25,13 +30,19 @@ $(ZIP_FILE):
 	done
 	rm -rf $(NAME)
 
-zipfiles: addon.xml
-	for arch in $(ARCHS); do \
-		$(MAKE) zip ARCHS=$$arch ZIP_SUFFIX=$$arch.zip; \
-	done
-
 zip: $(ZIP_FILE)
 
+zipfiles: addon.xml
+	for arch in $(ARCHS); do \
+		$(MAKE) $$arch; \
+	done
+
+clean_archs:
+	 rm -f $(ZIP_FILE)
+
 clean:
+	for arch in $(ARCHS); do \
+		$(MAKE) clean_archs ZIP_SUFFIX=$$arch.zip; \
+	done
 	rm -f $(ZIP_FILE)
 	rm -rf $(NAME)

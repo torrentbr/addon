@@ -12,7 +12,7 @@ script:
 deploy:
   provider: releases
   api_key: $GH_TOKEN
-  file: plugin.video.quasar-$TRAVIS_TAG.zip
+  file: plugin.video.quasar-${TRAVIS_TAG:1}.zip
   skip_cleanup: true
   on:
     tags: true

@@ -19,7 +19,7 @@ Supported platforms
 
 Download
 --------
-See the [Releases](https://github.com/scakemyer/plugin.video.quasar/releases) page. ** Do NOT use the `Download ZIP` button on this page. **
+See the [Releases](https://github.com/scakemyer/plugin.video.quasar/releases) page. **Do NOT use the `Download ZIP` button on this page.**
 
 
 Installation
@@ -34,16 +34,16 @@ The entire build process of Quasar is automated using Travis CI, and that's a
 good thing because it's quite a complicated one with many dependencies and
 repositories. Here's the stack from top to bottom:
 
-- [cross-compiler](https://github.com/scakemyer/cross-compiler) - Builds the base images to, you guessed it, cross-compile Quasar
-- [libtorrent-go](https://github.com/scakemyer/libtorrent-go) - The libtorrent library with Go bindings, built using cross-compiler
 - [quasar](https://github.com/scakemyer/quasar) - The Quasar daemon itself, built on top of the cross-compiled libtorrent-go
+- [libtorrent-go](https://github.com/scakemyer/libtorrent-go) - The libtorrent library with Go bindings, built using cross-compiler
+- [cross-compiler](https://github.com/scakemyer/cross-compiler) - Builds the base images to, you guessed it, cross-compile Quasar
 
 #### Build status of each project
-| cross-compiler | libtorrent-go | quasar daemon |
-| -------------- | ------------- | ------------- |
-| [![Build Status](https://travis-ci.org/scakemyer/cross-compiler.svg?branch=master)](https://travis-ci.org/scakemyer/cross-compiler) | [![Build Status](https://travis-ci.org/scakemyer/libtorrent-go.svg?branch=master)](https://travis-ci.org/scakemyer/libtorrent-go) | [![Build Status](https://travis-ci.org/scakemyer/quasar.svg?branch=master)](https://travis-ci.org/scakemyer/quasar) |
+| quasar daemon | libtorrent-go | cross-compiler |
+| ------------- | ------------- | -------------- |
+| [![Build Status](https://travis-ci.org/scakemyer/quasar.svg?branch=master)](https://travis-ci.org/scakemyer/quasar) | [![Build Status](https://travis-ci.org/scakemyer/libtorrent-go.svg?branch=master)](https://travis-ci.org/scakemyer/libtorrent-go) | [![Build Status](https://travis-ci.org/scakemyer/cross-compiler.svg?branch=master)](https://travis-ci.org/scakemyer/cross-compiler) |
 
-There are different ways to build the Quasar daemon. You can either pull the different Docker images or build it all yourself. If you want to go for the latter, start by building the cross-compiler images, then libtorrent-go, and come back to Quasar afterwards. There should be enough infos in each of the projects to get you started, but you'll obviously have to dive into the code at some point.
+There are different ways to build the Quasar daemon. You can either pull the different Docker images or build it all yourself. If you want to go for the latter, start by building the cross-compiler images, then libtorrent-go, and come back to Quasar afterwards. There should be enough info in each of the projects to get you started, but you'll obviously have to dive into the code at some point.
 
 Since the whole build process is now automated, this repository is using [pre-built binaries](https://github.com/scakemyer/quasar-binaries) from the last Quasar daemon build as a submodule. Here's how you'd build this add-on using those:
 ```

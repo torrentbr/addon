@@ -1,30 +1,35 @@
-# Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: steeve
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-30 21:52+0200\n"
+"PO-Revision-Date: 2016-01-30 22:06+0200\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: he\n"
+"X-Generator: Poedit 1.8.6\n"
+"Last-Translator: Assaf Sapir <meijin007@gmail.com>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: he_IL\n"
 
 # Settings
-
 msgctxt "#30000"
 msgid "General"
 msgstr "כללי"
 
 msgctxt "#30001"
 msgid "Download Path (NOT FAT32)"
-msgstr "נתיב להורדה (לא FAT32))"
+msgstr "נתיב הורדה (לא FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "שמירת הקבצים לאחר סיום הצפיה/הורדה"
+msgstr "שמירת הקבצים בסיום הניגון/ההורדה"
 
 msgctxt "#30003"
 msgid "Buffer Size (MB)"
@@ -32,7 +37,7 @@ msgstr "גודל הבאפר (MB)"
 
 msgctxt "#30004"
 msgid "Max Upload Rate (kB/s)"
-msgstr "קצב העלאה מרבי (kB/s)"
+msgstr "קצב העלאה מרבי (kbB/s)"
 
 msgctxt "#30005"
 msgid "Max Download Rate (kB/s)"
@@ -40,7 +45,7 @@ msgstr "קצב הורדה מרבי (kB/s)"
 
 msgctxt "#30006"
 msgid "Listen Port Min"
-msgstr "פורט האזנה מינמלי"
+msgstr "פורט האזנה מינימלי"
 
 msgctxt "#30007"
 msgid "Listen Port Max"
@@ -52,7 +57,7 @@ msgstr "פרוקסי"
 
 msgctxt "#30009"
 msgid "SOCKS v5 Configuration"
-msgstr "הגדרות SOCKS v5"
+msgstr "הגדרת SOCKS v5"
 
 msgctxt "#30010"
 msgid "Enabled"
@@ -80,11 +85,11 @@ msgstr "מתקדם"
 
 msgctxt "#30016"
 msgid "Custom Provider Timeout"
-msgstr "הגדרת Timeout מותאם"
+msgstr "Timeout מותאם אישית"
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
-msgstr "הפעלה (השימוש באחריותך)"
+msgstr "הפעלה (שימוש רק באחריותך)"
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
@@ -92,11 +97,11 @@ msgstr "Timeout בשניות"
 
 msgctxt "#30019"
 msgid "Maintenance"
-msgstr "אחזקה"
+msgstr "תחזוקה"
 
 msgctxt "#30020"
 msgid "Clear cache"
-msgstr "ניקוי cache"
+msgstr "ניקוי מטמון"
 
 msgctxt "#30021"
 msgid "Enable Paging"
@@ -108,47 +113,53 @@ msgstr "הפעלת שורת מצב מרחפת"
 
 msgctxt "#30023"
 msgid "Choose Stream Automatically"
-msgstr "בחירת אוטומטית של מקור לניגון"
+msgstr "בחירת מקור אוטומטית"
 
 msgctxt "#30024"
 msgid "Get updates for Pre-Releases"
-msgstr "קבלת עדכוני קדם-גרסה"
+msgstr "הפעלת עדכוני קדם-שחרור"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "הגבלת קצבים בזמן באפרינג בלבד"
+
+msgctxt "#30026"
+msgid "Library Path"
+msgstr "נתיב לספריה"
 
 # Interface
-
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
-msgstr "Quasar קרס. מופעל מחדש"
+msgstr "Quasar קרס, מופעל מחדש..."
 
 msgctxt "#30101"
 msgid "You must restart XBMC before using Quasar"
-msgstr "יש צורך בהפעלת Kodi מחדש על מנת להשתמש ב Quasar"
+msgstr "יש להפעיל את Kodi מחדש לפני השימוש ב Quasar"
 
 msgctxt "#30102"
 msgid "This addon can only be run from within Quasar"
-msgstr "ה Addon יכול לעבוד רק מתוך Quasar"
+msgstr "הAddon יכול לפעול רק מתוך Quasar"
 
 # Quasar daemon
-
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "נוקה Cache"
+msgstr "מטמון נוקה"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
-msgstr "חיפוש תוכניות טלוויזיה"
+msgstr "חיפוש תוכנית טלוויזיה"
 
 msgctxt "#30202"
 msgid "Choose Stream..."
-msgstr "זרימה מותאמת אישית"
+msgstr "בחירת מקור..."
 
 msgctxt "#30203"
 msgid "Movie Information"
-msgstr "מידע על הסרט"
+msgstr "פרטי סרט"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
-msgstr "לא נצאו Providers כלל"
+msgstr "לא נצא אף Provider"
 
 msgctxt "#30205"
 msgid "No links were found"
@@ -156,15 +167,15 @@ msgstr "לא נמצאו קישורים"
 
 msgctxt "#30206"
 msgid "Search Movies"
-msgstr "חיפוש סרטים"
+msgstr "חיפוש סרט"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
-msgstr "אין מספיק מקום בנתיב ההורדה"
+msgstr "אין מספיק מקום בנתיב ההורדה."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "שירות Quasar החל"
+msgstr "שירות Quasar הופעל"
 
 msgctxt "#30209"
 msgid "Search"
@@ -172,7 +183,7 @@ msgstr "חיפוש"
 
 msgctxt "#30210"
 msgid "Most Popular"
-msgstr "הכי פופולרי"
+msgstr "הכי פופלאריים"
 
 msgctxt "#30211"
 msgid "Top Rated"
@@ -196,12 +207,28 @@ msgstr "תוכניות טלוויזיה"
 
 msgctxt "#30216"
 msgid "Paste URL"
-msgstr "הדבקת כתובת"
+msgstr "הדבקת כתובת אינטרנט"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "הדבקת קישור מגנט או קישור"
+msgstr "הדבקת קישור Magnet או כתובת אינטרנט"
 
 msgctxt "#30218"
 msgid "Next Page"
 msgstr "עמוד הבא"
+
+msgctxt "#30219"
+msgid "Add/Remove from Library"
+msgstr "הוספה/הסרה מהספרייה"
+
+msgctxt "#30220"
+msgid "Library Path not set"
+msgstr "נתיב הספרייה לא מוגדר"
+
+msgctxt "#30221"
+msgid "Item successfully added to Library"
+msgstr "פריט הוסף בהצלחה לספרייה"
+
+msgctxt "#30222"
+msgid "Item removed from Library"
+msgstr "פריט הוסר בהצלחה מהספרייה"

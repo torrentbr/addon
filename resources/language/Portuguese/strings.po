@@ -110,6 +110,18 @@ msgctxt "#30023"
 msgid "Choose Stream Automatically"
 msgstr "Escolher Stream Automaticamente"
 
+msgctxt "#30024"
+msgid "Get updates for Pre-Releases"
+msgstr "Obter updates para Pre-Releases"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Limitar taxas apenas depois do buffering"
+
+msgctxt "#30026"
+msgid "Library Path"
+msgstr "Pasta da Biblioteca"
+
 # Interface
 
 msgctxt "#30100"
@@ -201,3 +213,19 @@ msgstr "Insira o Magnet ou URL"
 msgctxt "#30218"
 msgid "Next Page"
 msgstr "Próxima Página"
+
+msgctxt "#30219"
+msgid "Add/Remove from Library"
+msgstr "Adicionar/Remover da Biblioteca"
+
+msgctxt "#30220"
+msgid "Library Path not set"
+msgstr "Pasta da Biblioteca nao definida"
+
+msgctxt "#30221"
+msgid "Item successfully added to Library"
+msgstr "Item adicionado na Biblioteca"
+
+msgctxt "#30222"
+msgid "Item removed from Library"
+msgstr "Item removido da Biblioteca"

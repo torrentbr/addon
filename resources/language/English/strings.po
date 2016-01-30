@@ -118,6 +118,10 @@ msgctxt "#30025"
 msgid "Limit rates after buffering only"
 msgstr "Limit rates after buffering only"
 
+msgctxt "#30026"
+msgid "Library Path"
+msgstr "Library Path"
+
 # Interface
 
 msgctxt "#30100"
@@ -209,3 +213,19 @@ msgstr "Paste Magnet or URL"
 msgctxt "#30218"
 msgid "Next Page"
 msgstr "Next Page"
+
+msgctxt "#30219"
+msgid "Add/Remove from Library"
+msgstr "Add/Remove from Library"
+
+msgctxt "#30220"
+msgid "Library Path not set"
+msgstr "Library Path not set"
+
+msgctxt "#30221"
+msgid "Item successfully added to Library"
+msgstr "Item successfully added to Library"
+
+msgctxt "#30222"
+msgid "Item removed from Library"
+msgstr "Item removed from Library"

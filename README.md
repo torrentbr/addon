@@ -15,34 +15,47 @@ Supported platforms
 - Linux 32/64 bits (starting Ubuntu 12.04)
 - Linux ARM (Raspberry Pi, Cubox i4pro etc...)
 - OS X 64 bits
-- Android ARM (4.x)
-
-Build
------
-If you want to build this plugin, feel free. First, build the quasar daemon (see the [quasar project](https://github.com/scakemyer/quasar) for more information). Then, create a symlink, like this:
-```
-ln -s $GOPATH/src/github.com/scakemyer/quasar/build ./resources/bin
-```
-and build the package:
-```
-make
-```
+- Android ARM and x64
 
 Download
 --------
-See the [Releases](https://github.com/scakemyer/plugin.video.quasar/releases) page.
+See the [Releases](https://github.com/scakemyer/plugin.video.quasar/releases) page. ** Do NOT use the `Download ZIP` button on this page. **
 
 
 Installation
 ------------
 - Install Quasar like any other addon
-- Go in Settings > Services > Remote Control and **enable both options**
+- Go to Settings > Services > Remote Control and **enable both options**
 - Restart XBMC
 
+Build
+-----
+The entire build process of Quasar is automated using Travis CI, and that's a
+good thing because it's quite a complicated one with many dependencies and
+repositories. Here's the stack from top to bottom:
+
+- [cross-compiler](https://github.com/scakemyer/cross-compiler) - Builds the base images to, you guessed it, cross-compile Quasar
+- [libtorrent-go](https://github.com/scakemyer/libtorrent-go) - The libtorrent library with Go bindings, built using cross-compiler
+- [quasar](https://github.com/scakemyer/quasar) - The Quasar daemon itself, built on top of the cross-compiled libtorrent-go
+
+#### Build status of each project
+| cross-compiler | libtorrent-go | quasar daemon |
+| -------------- | ------------- | ------------- |
+| [![Build Status](https://travis-ci.org/scakemyer/cross-compiler.svg?branch=master)](https://travis-ci.org/scakemyer/cross-compiler) | [![Build Status](https://travis-ci.org/scakemyer/libtorrent-go.svg?branch=master)](https://travis-ci.org/scakemyer/libtorrent-go) | [![Build Status](https://travis-ci.org/scakemyer/quasar.svg?branch=master)](https://travis-ci.org/scakemyer/quasar) |
+
+There are different ways to build the Quasar daemon. You can either pull the different Docker images or build it all yourself. If you want to go for the latter, start by building the cross-compiler images, then libtorrent-go, and come back to Quasar afterwards. There should be enough infos in each of the projects to get you started, but you'll obviously have to dive into the code at some point.
+
+Since the whole build process is now automated, this repository is using [pre-built binaries](https://github.com/scakemyer/quasar-binaries) from the last Quasar daemon build as a submodule. Here's how you'd build this add-on using those:
+```
+git clone https://github.com/scakemyer/plugin.video.quasar
+cd plugin.video.quasar
+git submodule update --init
+make
+```
 
 How it works
 ------------
-Quasar is a torrent finding and streaming engine. **It doesn't go on torrent websites for legal reasons**. It calls specially crafted addons (called **providers**) that are installed separately. They are normal XBMC addons, and thus can be installed/updated/distributed just like any other addon.
+Quasar is a torrent finding and streaming engine. **It doesn't go on torrent websites for legal reasons**. It calls specially crafted addons (called **providers**) that are installed separately. They are normal XBMC addons, and thus can be installed/updated/distributed just like any other add-on.
 
 Quasar is centred around media: it browses media from [TheMovieDB](https://www.themoviedb.org/) and [TheTVDB](http://thetvdb.com/).
 And so, when you decide you want to watch a media (i.e. given an IMDB or TVDB Id), here's what Quasar does:
@@ -58,18 +71,18 @@ And so, when you decide you want to watch a media (i.e. given an IMDB or TVDB Id
 
 All of this is done in less than 1s. Quasar is around 95% Go, and thus, it's *fast*. Very fast, actually.
 
-The BitTorrent streaming engine is brand new and very resilient (or at least it's designed to be). It's built on top of the brand new libtorrent 1.0 (which had special patches for the streaming case). So it's very optimised, especially for low CPU machines. I have yet to find a media that doesn't play with the engine.
+The BitTorrent streaming engine is brand new and very resilient (or at least it's designed to be). It's built on top of the brand new libtorrent 1.0 (which had special patches for the streaming case). So it's very optimized, especially for low CPU machines. I have yet to find a media that doesn't play with the engine.
 
 
 Providers
 ---------
-As said before, Quasar **relies on providers to find streams**. Providers are easy to write, and average ~20 lines of Python. As they are normal XBMC addons, which can have their own configuration (although it is not recommended because it complicates things).
+As said before, Quasar **relies on providers to find streams**. Providers are easy to write, and average ~20 lines of Python. As they are normal XBMC add-ons, which can have their own configuration (although it is not recommended because it complicates things).
 
 Sample Quasar provider: [https://github.com/scakemyer/script.quasar.dummy](https://github.com/scakemyer/script.quasar.dummy)
 
 Providers are given a max amount of time to run before Quasar considers them to be too slow. The timeouts are as follow:
 - 10 seconds on Intel CPUs
-- 20 seconds on multicore ARM CPUs
+- 20 seconds on multi-core ARM CPUs
 - 30 seconds on single core ARM CPUs (Raspberry Pi)
 
 Please note that for legal reasons, **I won't discuss, develop nor distribute any providers connecting to illegal sources**. So there is no need to ask me.
@@ -82,8 +95,7 @@ FAQ
 Spread the word. Talk about it with your friends, show them, make videos, tutorials. Talk about it on social networks, blogs etc...
 
 ##### The plugin doesn't work, what can I do?
-Put your xbmc.log on [pastebin](http://pastebin.com/).
-If you don't know how to do that, just follow the guide at: [http://kodi.wiki/view/Log_file/Easy](http://kodi.wiki/view/Log_file/Easy)
+Please search currently [open and closed issues](https://github.com/scakemyer/plugin.video.quasar/issues) to see if it has already been reported and/or fixed. If not then add a new issue with a short but descriptive title, a detailed description and of course a link to the logs. If you don't know how to do that, just follow the guide at: [http://kodi.wiki/view/Log_file/Easy](http://kodi.wiki/view/Log_file/Easy). If you actually went through the logs and know the relevant part, you can instead paste that, as long as it's shorter than a hundred lines or so, and please enclose it in triple back-quotes for readability.
 
 ##### Can I seek in a video?
 Yes, but it can fail.
@@ -102,9 +114,6 @@ Yes, but **you need to mount your NAS via the OS, not via XBMC**.
 
 ##### Provider X is blocked in my country/ISP, how can I set another domain?
 Sorry, I won't comment of specific providers.
-
-##### Will there be an Android version?
-Yes. I have a working version right now, but it's not stable enough for release. Don't blame me, the Android ecosystem is pretty bad for that sort of thing.
 
 
 Screenshots

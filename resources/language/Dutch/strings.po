@@ -232,3 +232,8 @@ msgstr "Item succesvol aan bibliotheek toegevoegd"
 msgctxt "#30222"
 msgid "Item removed from Library"
 msgstr "Item succesvol uit bibliotheek verwijderd"
+
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "Bestanden"

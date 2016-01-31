@@ -231,3 +231,7 @@ msgstr "Item successfully added to Library"
 msgctxt "#30222"
 msgid "Item removed from Library"
 msgstr "Item removed from Library"
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "Files"

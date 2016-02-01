@@ -26,7 +26,7 @@
         <setting id="socks_host" label="30011" type="text" default="" subsetting="true" visible="eq(-1,true)" />
         <setting id="socks_port" label="30012" type="number" default="1080" subsetting="true" visible="eq(-2,true)" />
         <setting id="socks_login" label="30013" type="text" default="" subsetting="true" visible="eq(-3,true)" />
-        <setting id="socks_password" label="30014" type="text" default="" subsetting="true" visible="eq(-4,true)" />
+        <setting id="socks_password" label="30014" type="text" default="" option="hidden" subsetting="true" visible="eq(-4,true)" />
     </category>
     <category label="30015">
         <!-- Advanced -->

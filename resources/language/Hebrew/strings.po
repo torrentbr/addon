@@ -128,8 +128,8 @@ msgid "Quasar has crashed, restarting..."
 msgstr "Quasar קרס, מופעל מחדש..."
 
 msgctxt "#30101"
-msgid "You must restart XBMC before using Quasar"
-msgstr "יש להפעיל את Kodi מחדש לפני השימוש ב Quasar"
+msgid "You must restart KODI before using Quasar"
+msgstr "יש להפעיל את KODI מחדש לפני השימוש ב Quasar"
 
 msgctxt "#30102"
 msgid "This addon can only be run from within Quasar"

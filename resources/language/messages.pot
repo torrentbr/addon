@@ -132,8 +132,8 @@ msgid "Quasar has crashed, restarting..."
 msgstr "Quasar has crashed, restarting..."
 
 msgctxt "#30101"
-msgid "You must restart XBMC before using Quasar"
-msgstr "You must restart XBMC before using Quasar"
+msgid "You must restart KODI before using Quasar"
+msgstr "You must restart KODI before using Quasar"
 
 msgctxt "#30102"
 msgid "This addon can only be run from within Quasar"

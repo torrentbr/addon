@@ -113,8 +113,8 @@ msgid "Quasar has crashed, restarting..."
 msgstr "Quasar s'est crashé, redémarrage..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
-msgstr "Vous devez redémarrer Kodi pour pouvoir utiliser Quasar"
+msgid "You must restart KODI before using Quasar"
+msgstr "Vous devez redémarrer KODI pour pouvoir utiliser Quasar"
 
 msgctxt "#30102"
 msgid "This addon can only be run from within Quasar"

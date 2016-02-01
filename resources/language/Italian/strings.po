@@ -1,0 +1,233 @@
+# Kodi Media Center language file
+# Addon Name: Quasar
+# Addon id: plugin.video.quasar
+# Addon Provider: steeve
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2016-01-27 19:53+0200\n"
+"PO-Revision-Date: 2016-02-01 20:30+0200\n"
+"Last-Translator: greenbaburu <pigiard@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+msgctxt "#30000"
+msgid "General"
+msgstr "Generale"
+
+msgctxt "#30001"
+msgid "Download Path (NOT FAT32)"
+msgstr "Percorso di Archiviazione (NON FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Archivia i file dopo la riproduzione/download"
+
+msgctxt "#30003"
+msgid "Buffer Size (MB)"
+msgstr "Dimensione Buffer (MB)"
+
+msgctxt "#30004"
+msgid "Max Upload Rate (kB/s)"
+msgstr "Velocità Massima di Upload (kbB/s)"
+
+msgctxt "#30005"
+msgid "Max Download Rate (kB/s)"
+msgstr "Velocità Massima di Download (kB/s)"
+
+msgctxt "#30006"
+msgid "Listen Port Min"
+msgstr "Porta in ascolto Min"
+
+msgctxt "#30007"
+msgid "Listen Port Max"
+msgstr "Porta in ascolto Max"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "Configurazione SOCKS v5"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Abilita"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Host"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Porta"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Avanzato"
+
+msgctxt "#30016"
+msgid "Custom Provider Timeout"
+msgstr "Imposta tempo limite del Provider"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Abilita (utilizza a tuo rischio)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Tempo limite in secondi"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Manutenzione"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Svuota cache"
+
+msgctxt "#30021"
+msgid "Enable Paging"
+msgstr "Abilita Impaginazione"
+
+msgctxt "#30022"
+msgid "Enable Overlay Status Bar"
+msgstr "Abilita Sovraimpressione Barra di Stato"
+
+msgctxt "#30023"
+msgid "Choose Stream Automatically"
+msgstr "Scegli Fonte Automaticamente"
+
+msgctxt "#30024"
+msgid "Get updates for Pre-Releases"
+msgstr "Abilita aggiornamenti di versioni in Anteprima"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Limita banda dopo il buffering"
+
+msgctxt "#30026"
+msgid "Library Path"
+msgstr "Percorso Libreria"
+
+# Interface
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasar si è interrotto, sta riavviando..."
+
+msgctxt "#30101"
+msgid "You must restart KODI before using Quasar"
+msgstr "Riavvia KODI prima di usare Quasar"
+
+msgctxt "#30102"
+msgid "This addon can only be run from within Quasar"
+msgstr "Questo addon funziona solo con Quasar avviato"
+
+# Quasar daemon
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Pulizia cache eseguita"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Cerca Serie TV"
+
+msgctxt "#30202"
+msgid "Choose Stream..."
+msgstr "Scegli Fonte..."
+
+msgctxt "#30203"
+msgid "Show information"
+msgstr "Visualizza informazioni"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Nessun provider è stato trovato"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "Nessun collegamento trovato"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Cerca Film"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Spazio nel percorso di archiviazione insufficiente."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Il demone di Quasar si è avviato"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Cerca"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Più Popolari"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Miglior Voto"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Più Votati"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "Migliori 250 di IMDB"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Film"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "Serie TV"
+
+msgctxt "#30216"
+msgid "Paste URL"
+msgstr "Incolla URL"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Incolla Magnet o URL"
+
+msgctxt "#30218"
+msgid "Next Page"
+msgstr "Prossima Pagina"
+
+msgctxt "#30219"
+msgid "Add/Remove from Library"
+msgstr "Aggiungi/Rimuovi dalla Libreria"
+
+msgctxt "#30220"
+msgid "Library Path not set"
+msgstr "Percorso Libreria non impostato"
+
+msgctxt "#30221"
+msgid "Item successfully added to Library"
+msgstr "Oggetto aggiunto con successo alla Libreria"
+
+msgctxt "#30222"
+msgid "Item removed from Library"
+msgstr "Oggetto rimosso dalla Libreria"
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "File"

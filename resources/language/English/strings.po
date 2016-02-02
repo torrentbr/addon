@@ -136,6 +136,10 @@ msgctxt "#30102"
 msgid "This addon can only be run from within Quasar"
 msgstr "This addon can only be run from within Quasar"
 
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "Unable to find Quasar binary"
+
 # Quasar daemon
 
 msgctxt "#30200"

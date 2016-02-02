@@ -235,3 +235,15 @@ msgstr "Item removed from Library"
 msgctxt "#30223"
 msgid "Files"
 msgstr "Files"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Provider error"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Navigation error"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Daemon error"

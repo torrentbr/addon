@@ -56,7 +56,7 @@ msgstr "Configuración SOCKS v5"
 
 msgctxt "#30010"
 msgid "Enabled"
-msgstr "Activo"
+msgstr "Activado"
 
 msgctxt "#30011"
 msgid "Host"
@@ -84,7 +84,7 @@ msgstr "Timeout Provider"
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
-msgstr "Activo (use bajo su responsabilidad)"
+msgstr "Activado (use bajo su responsabilidad)"
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
@@ -109,6 +109,18 @@ msgstr "Activar Barra de Estado"
 msgctxt "#30023"
 msgid "Choose Stream Automatically"
 msgstr "Seleccionar Stream Automáticamente"
+
+msgctxt "#30024"
+msgid "Get updates for Pre-Releases"
+msgstr "Obtener actualizaciones de Pre-Releases"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Limitar tasas después de hacer buffering"
+
+msgctxt "#30026"
+msgid "Library Path"
+msgstr "Ruta de la Librería"
 
 # Interface
 
@@ -140,7 +152,7 @@ msgstr "Seleccione Stream..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Información de la película"
+msgstr "Mostrar información"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
@@ -201,3 +213,23 @@ msgstr "Ingresar Magnet o URL"
 msgctxt "#30218"
 msgid "Next Page"
 msgstr "Próxima Página"
+
+msgctxt "#30219"
+msgid "Add/Remove from Library"
+msgstr "Agregar/Eliminar de Librería"
+
+msgctxt "#30220"
+msgid "Library Path not set"
+msgstr "No se configurado la ruta de la Librería"
+
+msgctxt "#30221"
+msgid "Item successfully added to Library"
+msgstr "Se agregado correctamente a la Librería"
+
+msgctxt "#30222"
+msgid "Item removed from Library"
+msgstr "Se ha eliminado de la Librería"
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "Archivos"

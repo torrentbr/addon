@@ -233,7 +233,18 @@ msgctxt "#30222"
 msgid "Item removed from Library"
 msgstr "Item succesvol uit bibliotheek verwijderd"
 
-
 msgctxt "#30223"
 msgid "Files"
 msgstr "Bestanden"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Provider fout"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Navigatie fout"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Daemon fout"

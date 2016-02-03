@@ -249,3 +249,7 @@ msgstr "Navigation error"
 msgctxt "#30226"
 msgid "Daemon error"
 msgstr "Daemon error"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Error updating Quasar daemon"

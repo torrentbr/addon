@@ -32,11 +32,11 @@ msgstr "Dimensione Buffer (MB)"
 
 msgctxt "#30004"
 msgid "Max Upload Rate (kB/s)"
-msgstr "Velocità Massima di Upload (kbB/s)"
+msgstr "Velocità massima di Upload (kbB/s)"
 
 msgctxt "#30005"
 msgid "Max Download Rate (kB/s)"
-msgstr "Velocità Massima di Download (kB/s)"
+msgstr "Velocità massima di Download (kB/s)"
 
 msgctxt "#30006"
 msgid "Listen Port Min"
@@ -104,15 +104,15 @@ msgstr "Abilita Impaginazione"
 
 msgctxt "#30022"
 msgid "Enable Overlay Status Bar"
-msgstr "Abilita Sovraimpressione Barra di Stato"
+msgstr "Abilita barra di stato in sovraimpressione"
 
 msgctxt "#30023"
 msgid "Choose Stream Automatically"
-msgstr "Scegli Fonte Automaticamente"
+msgstr "Scegli fonte Automaticamente"
 
 msgctxt "#30024"
 msgid "Get updates for Pre-Releases"
-msgstr "Abilita aggiornamenti di versioni in Anteprima"
+msgstr "Abilita aggiornamenti con versioni Beta"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
@@ -138,7 +138,7 @@ msgstr "Questo addon funziona solo con Quasar avviato"
 # Quasar daemon
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "Pulizia cache eseguita"
+msgstr "Cache svuotata"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
@@ -170,7 +170,7 @@ msgstr "Spazio nel percorso di archiviazione insufficiente."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Il demone di Quasar si è avviato"
+msgstr "Il deamon di Quasar si è avviato"
 
 msgctxt "#30209"
 msgid "Search"
@@ -222,7 +222,7 @@ msgstr "Percorso Libreria non impostato"
 
 msgctxt "#30221"
 msgid "Item successfully added to Library"
-msgstr "Oggetto aggiunto con successo alla Libreria"
+msgstr "Oggetto aggiunto alla Libreria con successo"
 
 msgctxt "#30222"
 msgid "Item removed from Library"
@@ -231,3 +231,19 @@ msgstr "Oggetto rimosso dalla Libreria"
 msgctxt "#30223"
 msgid "Files"
 msgstr "File"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Errore del Provider"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Errore di navigazione"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Errore del Daemon"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Errore aggiornamento Quasar daemon"

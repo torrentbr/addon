@@ -122,6 +122,10 @@ msgctxt "#30026"
 msgid "Library Path"
 msgstr "Library Path"
 
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Connections limit"
+
 # Interface
 
 msgctxt "#30100"

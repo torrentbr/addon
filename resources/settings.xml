@@ -16,6 +16,7 @@
         <setting id="max_upload_rate" label="30004" type="number" default="" />
         <setting id="max_download_rate" label="30005" type="number" default="" />
         <setting id="limit_after_buffering" label="30025" type="bool" default="false" />
+        <setting id="connections_limit" label="30027" type="number" default="" />
         <setting id="listen_port_min" label="30006" type="number" default="6889" />
         <setting id="listen_port_max" label="30007" type="number" default="7000" />
     </category>

@@ -26,7 +26,7 @@ Installation
 ------------
 - Install Quasar like any other addon
 - Go to Settings > Services > Remote Control and **enable both options**
-- Restart XBMC
+- Restart Kodi
 
 Build
 -----
@@ -55,7 +55,7 @@ make
 
 How it works
 ------------
-Quasar is a torrent finding and streaming engine. **It doesn't go on torrent websites for legal reasons**. It calls specially crafted addons (called **providers**) that are installed separately. They are normal XBMC addons, and thus can be installed/updated/distributed just like any other add-on.
+Quasar is a torrent finding and streaming engine. **It doesn't go on torrent websites for legal reasons**. It calls specially crafted addons (called **providers**) that are installed separately. They are normal Kodi addons, and thus can be installed/updated/distributed just like any other add-on.
 
 Quasar is centred around media: it browses media from [TheMovieDB](https://www.themoviedb.org/) and [TheTVDB](http://thetvdb.com/).
 And so, when you decide you want to watch a media (i.e. given an IMDB or TVDB Id), here's what Quasar does:
@@ -76,7 +76,7 @@ The BitTorrent streaming engine is brand new and very resilient (or at least it'
 
 Providers
 ---------
-As said before, Quasar **relies on providers to find streams**. Providers are easy to write, and average ~20 lines of Python. As they are normal XBMC add-ons, which can have their own configuration (although it is not recommended because it complicates things).
+As said before, Quasar **relies on providers to find streams**. Providers are easy to write, and average ~20 lines of Python. As they are normal Kodi add-ons, which can have their own configuration (although it is not recommended because it complicates things).
 
 Sample Quasar provider: [https://github.com/scakemyer/script.quasar.dummy](https://github.com/scakemyer/script.quasar.dummy)
 
@@ -110,7 +110,7 @@ Yes, yes and yes.
 Yes, change it in the addon settings.
 
 ##### Can I set it to download directly to my NAS?
-Yes, but **you need to mount your NAS via the OS, not via XBMC**.
+Yes, but **you need to mount your NAS via the OS, not via Kodi**.
 
 ##### Provider X is blocked in my country/ISP, how can I set another domain?
 Sorry, I won't comment of specific providers.

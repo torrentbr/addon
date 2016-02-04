@@ -5,12 +5,12 @@ VERSION = $(shell sed -ne "s/.*version=\"\([0-9a-z\.\-]*\)\"\sprovider.*/\1/p" a
 ARCHS = \
 	android_arm \
 	android_x64 \
-	linux_x86 \
-	linux_x64 \
-	linux_arm \
 	darwin_x64 \
-	windows_x86 \
-	windows_x64
+	linux_arm \
+	linux_x64 \
+	linux_x86 \
+	windows_x64 \
+	windows_x86
 ZIP_SUFFIX = zip
 ZIP_FILE = $(NAME)-$(VERSION).$(ZIP_SUFFIX)
 

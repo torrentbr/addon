@@ -8,11 +8,24 @@ install:
 script:
   - flake8
   - make
+  - |
+    if [ "${TRAVIS_PULL_REQUEST}" = "false" ] && [ -n "${TRAVIS_TAG}" ]; then
+      make zipfiles
+    fi
 
 deploy:
   provider: releases
   api_key: $GH_TOKEN
-  file: plugin.video.quasar-${TRAVIS_TAG:1}.zip
+  file:
+    - plugin.video.quasar-${TRAVIS_TAG:1}.zip
+    - plugin.video.quasar-${TRAVIS_TAG:1}.android_arm.zip
+    - plugin.video.quasar-${TRAVIS_TAG:1}.android_x64.zip
+    - plugin.video.quasar-${TRAVIS_TAG:1}.darwin_x64.zip
+    - plugin.video.quasar-${TRAVIS_TAG:1}.linux_arm.zip
+    - plugin.video.quasar-${TRAVIS_TAG:1}.linux_x64.zip
+    - plugin.video.quasar-${TRAVIS_TAG:1}.linux_x86.zip
+    - plugin.video.quasar-${TRAVIS_TAG:1}.windows_x64.zip
+    - plugin.video.quasar-${TRAVIS_TAG:1}.windows_x86.zip
   skip_cleanup: true
   on:
     tags: true

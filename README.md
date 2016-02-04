@@ -4,18 +4,18 @@
 
 What it is
 ----------
-Quasar is an torrent finding and streaming engine. It doesn't go on torrent websites for legal reasons. However, it calls specially crafted addons (called providers) that are installed separately. They are normal XBMC addons, and thus can be installed/updated/distributed just like any other addon.
+Quasar is a torrent finding and streaming engine. It doesn't go on torrent websites for legal reasons. However, it calls specially crafted add-ons (called providers) that are installed separately. They are normal Kodi add-ons, and thus can be installed/updated/distributed just like any other add-on.
 
 This project is a fork of the well known, but no longer maintained Pulsar project from [steeve](https://github.com/steeve/plugin.video.pulsar).
 Big thanks for his great job.
 
 Supported platforms
 -------------------
-- Windows
+- Windows 32/64 bits
 - Linux 32/64 bits (starting Ubuntu 12.04)
-- Linux ARM (Raspberry Pi, Cubox i4pro etc...)
+- Linux ARM (Raspberry Pi, Cubox i4Pro, etc)
 - OS X 64 bits
-- Android ARM and x64
+- Android ARM (4.4.x, L and M), x86 and x64 (L and M)
 
 Download
 --------
@@ -24,7 +24,7 @@ See the [Releases](https://github.com/scakemyer/plugin.video.quasar/releases) pa
 
 Installation
 ------------
-- Install Quasar like any other addon
+- Install Quasar like any other add-on
 - Go to Settings > Services > Remote Control and **enable both options**
 - Restart Kodi
 
@@ -55,9 +55,9 @@ make
 
 How it works
 ------------
-Quasar is a torrent finding and streaming engine. **It doesn't go on torrent websites for legal reasons**. It calls specially crafted addons (called **providers**) that are installed separately. They are normal Kodi addons, and thus can be installed/updated/distributed just like any other add-on.
+Quasar is a torrent finding and streaming engine. **It doesn't go on torrent websites for legal reasons**. It calls specially crafted add-ons (called **providers**) that are installed separately. They are normal Kodi add-ons, and thus can be installed/updated/distributed just like any other add-on.
 
-Quasar is centred around media: it browses media from [TheMovieDB](https://www.themoviedb.org/) and [TheTVDB](http://thetvdb.com/).
+Quasar is centered around media: it browses media from [TheMovieDB](https://www.themoviedb.org/) and [TheTVDB](http://thetvdb.com/).
 And so, when you decide you want to watch a media (i.e. given an IMDB or TVDB Id), here's what Quasar does:
 
 - Enumerate the installed providers
@@ -92,7 +92,7 @@ While I can partake in general discussions regarding provider development, **I w
 FAQ
 ---
 ##### I can't code. How can I help?
-Spread the word. Talk about it with your friends, show them, make videos, tutorials. Talk about it on social networks, blogs etc...
+Spread the word. Talk about it with your friends, show them, make videos, tutorials. Talk about it on social networks, blogs, etc...
 
 ##### The plugin doesn't work, what can I do?
 Please search currently [open and closed issues](https://github.com/scakemyer/plugin.video.quasar/issues) to see if it has already been reported and/or fixed. If not then add a new issue with a short but descriptive title, a detailed description and of course a link to the logs. If you don't know how to do that, just follow the guide at: [http://kodi.wiki/view/Log_file/Easy](http://kodi.wiki/view/Log_file/Easy). If you actually went through the logs and know the relevant part, you can instead paste that, as long as it's shorter than a hundred lines or so, and please enclose it in triple back-quotes for readability.
@@ -107,7 +107,7 @@ When watching a torrent, **you will be seeding while you watch the stream**.
 Yes, yes and yes.
 
 ##### Can I keep the file after watching it?
-Yes, change it in the addon settings.
+Yes, change it in the add-on settings.
 
 ##### Can I set it to download directly to my NAS?
 Yes, but **you need to mount your NAS via the OS, not via Kodi**.

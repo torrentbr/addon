@@ -257,3 +257,7 @@ msgstr "Daemon error"
 msgctxt "#30227"
 msgid "Error updating Quasar daemon"
 msgstr "Error updating Quasar daemon"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Available streams for"

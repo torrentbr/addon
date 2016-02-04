@@ -4,8 +4,8 @@
 # Addon Provider: steeve
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2016-01-31 22:30+0200\n"
-"PO-Revision-Date: 2016-01-31 22:31+0200\n"
+"POT-Creation-Date: 2016-02-04 15:26+0200\n"
+"PO-Revision-Date: 2016-02-04 15:27+0200\n"
 "Last-Translator: Assaf Sapir <meijin007@gmail.com>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -122,6 +122,10 @@ msgctxt "#30026"
 msgid "Library Path"
 msgstr "נתיב לספריה"
 
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "הגבלת חיבורים"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -134,6 +138,10 @@ msgstr "יש להפעיל את KODI מחדש לפני השימוש ב Quasar"
 msgctxt "#30102"
 msgid "This addon can only be run from within Quasar"
 msgstr "הAddon יכול לפעול רק מתוך Quasar"
+
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "אין אפשרות למצוא את קובץ ההרצה של Quasar"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -228,7 +236,22 @@ msgctxt "#30222"
 msgid "Item removed from Library"
 msgstr "פריט הוסר בהצלחה מהספרייה"
 
-#, fuzzy
 msgctxt "#30223"
 msgid "Files"
 msgstr "קבצים"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "שגיאת Provider"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "שגיאת ניווט"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "שגיאת שרת"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "שגיאה בעדכון של שרת Quasar"

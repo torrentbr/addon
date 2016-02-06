@@ -19,7 +19,7 @@ msgid "General"
 msgstr "Generale"
 
 msgctxt "#30001"
-msgid "Download Path (NOT FAT32)"
+msgid "Download path (not FAT32)"
 msgstr "Percorso di Archiviazione (NON FAT32)"
 
 msgctxt "#30002"
@@ -27,23 +27,23 @@ msgid "Keep files after playback/download stops"
 msgstr "Archivia i file dopo la riproduzione/download"
 
 msgctxt "#30003"
-msgid "Buffer Size (MB)"
+msgid "Buffer size (MB)"
 msgstr "Dimensione Buffer (MB)"
 
 msgctxt "#30004"
-msgid "Max Upload Rate (kB/s)"
+msgid "Max upload rate (kB/s)"
 msgstr "Velocità massima di Upload (kbB/s)"
 
 msgctxt "#30005"
-msgid "Max Download Rate (kB/s)"
+msgid "Max download rate (kB/s)"
 msgstr "Velocità massima di Download (kB/s)"
 
 msgctxt "#30006"
-msgid "Listen Port Min"
+msgid "Listen port min"
 msgstr "Porta in ascolto Min"
 
 msgctxt "#30007"
-msgid "Listen Port Max"
+msgid "Listen port max"
 msgstr "Porta in ascolto Max"
 
 msgctxt "#30008"
@@ -79,7 +79,7 @@ msgid "Advanced"
 msgstr "Avanzato"
 
 msgctxt "#30016"
-msgid "Custom Provider Timeout"
+msgid "Custom provider timeout"
 msgstr "Imposta tempo limite del Provider"
 
 msgctxt "#30017"
@@ -99,19 +99,19 @@ msgid "Clear cache"
 msgstr "Svuota cache"
 
 msgctxt "#30021"
-msgid "Enable Paging"
+msgid "Enable pagination"
 msgstr "Abilita Impaginazione"
 
 msgctxt "#30022"
-msgid "Enable Overlay Status Bar"
+msgid "Enable overlay status"
 msgstr "Abilita barra di stato in sovraimpressione"
 
 msgctxt "#30023"
-msgid "Choose Stream Automatically"
+msgid "Choose stream automatically"
 msgstr "Scegli fonte Automaticamente"
 
 msgctxt "#30024"
-msgid "Get updates for Pre-Releases"
+msgid "Get updates for pre-releases"
 msgstr "Abilita aggiornamenti con versioni Beta"
 
 msgctxt "#30025"
@@ -119,7 +119,7 @@ msgid "Limit rates after buffering only"
 msgstr "Limita banda dopo il buffering"
 
 msgctxt "#30026"
-msgid "Library Path"
+msgid "Library path"
 msgstr "Percorso Libreria"
 
 # Interface
@@ -128,11 +128,11 @@ msgid "Quasar has crashed, restarting..."
 msgstr "Quasar si è interrotto, sta riavviando..."
 
 msgctxt "#30101"
-msgid "You must restart KODI before using Quasar"
-msgstr "Riavvia KODI prima di usare Quasar"
+msgid "You must restart Kodi before using Quasar"
+msgstr "Riavvia Kodi prima di usare Quasar"
 
 msgctxt "#30102"
-msgid "This addon can only be run from within Quasar"
+msgid "This add-on can only be run from within Quasar"
 msgstr "Questo addon funziona solo con Quasar avviato"
 
 # Quasar daemon
@@ -145,7 +145,7 @@ msgid "Search TV Shows"
 msgstr "Cerca Serie TV"
 
 msgctxt "#30202"
-msgid "Choose Stream..."
+msgid "Choose stream..."
 msgstr "Scegli Fonte..."
 
 msgctxt "#30203"
@@ -209,23 +209,23 @@ msgid "Paste Magnet or URL"
 msgstr "Incolla Magnet o URL"
 
 msgctxt "#30218"
-msgid "Next Page"
+msgid "Next page"
 msgstr "Prossima Pagina"
 
 msgctxt "#30219"
-msgid "Add/Remove from Library"
+msgid "Add/Remove from library"
 msgstr "Aggiungi/Rimuovi dalla Libreria"
 
 msgctxt "#30220"
-msgid "Library Path not set"
+msgid "Library path not set"
 msgstr "Percorso Libreria non impostato"
 
 msgctxt "#30221"
-msgid "Item successfully added to Library"
+msgid "Item successfully added to library"
 msgstr "Oggetto aggiunto alla Libreria con successo"
 
 msgctxt "#30222"
-msgid "Item removed from Library"
+msgid "Item removed from library"
 msgstr "Oggetto rimosso dalla Libreria"
 
 msgctxt "#30223"

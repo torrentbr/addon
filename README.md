@@ -66,7 +66,7 @@ And so, when you decide you want to watch a media (i.e. given an IMDB or TVDB Id
 - Collects and de-duplicates all the links
 - Goes on the BitTorrent network to find out the number of seeds and peers in real time (i.e. not provided by the provider)
 - Finds out of which quality are the different links (thanks to their name)
-- Ranks the links by quality and availability (Quasar privileges quality over availability, but it's not dumb. However, you can get a full list to choose from manually it you want, or enable 'Choose Stream by default' to always choose manually)
+- Ranks the links by quality and availability (Quasar privileges quality over availability, but it's not dumb. However, you can get a full list to choose from manually it you want, or enable 'Choose stream by default' to always choose manually)
 - Sends the chosen link to the BitTorrent streaming engine (brand new, and completely rewritten)
 
 All of this is done in less than 1s. Quasar is around 95% Go, and thus, it's *fast*. Very fast, actually.

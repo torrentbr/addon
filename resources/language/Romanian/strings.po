@@ -22,7 +22,7 @@ msgid "General"
 msgstr "General"
 
 msgctxt "#30001"
-msgid "Download Path (NOT FAT32)"
+msgid "Download path (not FAT32)"
 msgstr "Calea spre descarcare (NU FAT32)"
 
 msgctxt "#30002"
@@ -30,23 +30,23 @@ msgid "Keep files after playback/download stops"
 msgstr "Pastreaza fisierele dupa reproducere"
 
 msgctxt "#30003"
-msgid "Buffer Size (MB)"
+msgid "Buffer size (MB)"
 msgstr "Marime buffer (MB)"
 
 msgctxt "#30004"
-msgid "Max Upload Rate (kB/s)"
+msgid "Max upload rate (kB/s)"
 msgstr "Rata Maxima Upload (kB/s)"
 
 msgctxt "#30005"
-msgid "Max Download Rate (kB/s)"
+msgid "Max download rate (kB/s)"
 msgstr "Rata Maxima Download (kB/S)"
 
 msgctxt "#30006"
-msgid "Listen Port Min"
+msgid "Listen port min"
 msgstr "Asculta Port Min"
 
 msgctxt "#30007"
-msgid "Listen Port Max"
+msgid "Listen port max"
 msgstr "Asculta Port Max"
 
 msgctxt "#30008"
@@ -82,7 +82,7 @@ msgid "Advanced"
 msgstr "Avansat"
 
 msgctxt "#30016"
-msgid "Custom Provider Timeout"
+msgid "Custom provider timeout"
 msgstr "Timeout Provider"
 
 msgctxt "#30017"
@@ -102,11 +102,11 @@ msgid "Clear cache"
 msgstr "Sterge cache"
 
 msgctxt "#30021"
-msgid "Enable Paging"
+msgid "Enable pagination"
 msgstr "Activeaza Paginare"
 
 msgctxt "#30022"
-msgid "Enable Overlay Status Bar"
+msgid "Enable overlay status"
 msgstr "Activeaza Bara de Stare"
 
 # Interface
@@ -115,11 +115,11 @@ msgid "Quasar has crashed, restarting..."
 msgstr "Quasar a intampinat probleme, se reporneste..."
 
 msgctxt "#30101"
-msgid "You must restart KODI before using Quasar"
-msgstr "E necesar sa restartati KODI inainte de utilizare Quasar"
+msgid "You must restart Kodi before using Quasar"
+msgstr "E necesar sa restartati Kodi inainte de utilizare Quasar"
 
 msgctxt "#30102"
-msgid "This addon can only be run from within Quasar"
+msgid "This add-on can only be run from within Quasar"
 msgstr "Acest addon poate fi rulat doar din Quasar"
 
 # Quasar daemon
@@ -132,7 +132,7 @@ msgid "Search TV Shows"
 msgstr "Cauta TV Shows"
 
 msgctxt "#30202"
-msgid "Choose Stream..."
+msgid "Choose stream..."
 msgstr "Alege Stream..."
 
 msgctxt "#30203"
@@ -196,5 +196,5 @@ msgid "Paste Magnet or URL"
 msgstr "Insereaza Magnet sau URL"
 
 msgctxt "#30218"
-msgid "Next Page"
+msgid "Next page"
 msgstr "Pagina Urmatoare"

@@ -126,6 +126,10 @@ msgctxt "#30027"
 msgid "Connections limit"
 msgstr "Connections limit"
 
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "Background handling of torrents"
+
 # Interface
 
 msgctxt "#30100"

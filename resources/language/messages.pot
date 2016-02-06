@@ -134,6 +134,10 @@ msgctxt "#30028"
 msgid "Background handling of torrents"
 msgstr "Background handling of torrents"
 
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "Session saving frequency (seconds)"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."

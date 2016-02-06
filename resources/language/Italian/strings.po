@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2016-02-01 20:30+0200\n"
+"PO-Revision-Date: 2016-02-01 14:50+0200\n"
 "Last-Translator: greenbaburu <pigiard@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -104,7 +104,7 @@ msgstr "Abilita Impaginazione"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Abilita barra di stato in sovraimpressione"
+msgstr "Abilita stato in sovraimpressione"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
@@ -112,7 +112,7 @@ msgstr "Scegli fonte Automaticamente"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
-msgstr "Abilita aggiornamenti con versioni Beta"
+msgstr "Abilita aggiornamenti di anteprime"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
@@ -133,7 +133,7 @@ msgstr "Riavvia Kodi prima di usare Quasar"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr "Questo addon funziona solo con Quasar avviato"
+msgstr "Questo add-on funziona solo con Quasar avviato"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -170,7 +170,7 @@ msgstr "Spazio nel percorso di archiviazione insufficiente."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Il deamon di Quasar si è avviato"
+msgstr "Il daemon di Quasar si è avviato"
 
 msgctxt "#30209"
 msgid "Search"
@@ -247,3 +247,23 @@ msgstr "Errore del Daemon"
 msgctxt "#30227"
 msgid "Error updating Quasar daemon"
 msgstr "Errore aggiornamento Quasar daemon"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Stream disponibile per"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "Torrent"
+
+msgctxt "#30230"
+msgid "Play/resume torrent"
+msgstr "Avvia/riprendi torrent"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "Sospendi torrent"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "Elimina torrent"

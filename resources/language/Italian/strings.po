@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2016-02-01 14:50+0200\n"
+"PO-Revision-Date: 2016-02-07 13:00+0200\n"
 "Last-Translator: greenbaburu <pigiard@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -121,6 +121,18 @@ msgstr "Limita banda dopo il buffering"
 msgctxt "#30026"
 msgid "Library path"
 msgstr "Percorso Libreria"
+
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Limite connessioni"
+
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "Gestione dei torrent in background"
+
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "Frequenza di salvataggio sessione (secondi)"
 
 # Interface
 msgctxt "#30100"

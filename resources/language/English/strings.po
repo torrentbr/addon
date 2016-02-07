@@ -285,3 +285,11 @@ msgstr "Pause torrent"
 msgctxt "#30232"
 msgid "Delete torrent"
 msgstr "Delete torrent"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Pause session"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Resume session"

@@ -152,6 +152,30 @@ msgctxt "#30103"
 msgid "Unable to find Quasar binary"
 msgstr "Unable to find Quasar binary"
 
+msgctxt "#30104"
+msgid "Insert File or Url"
+msgstr "Insert File or Url"
+
+msgctxt "#30105"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "#30106"
+msgid "File"
+msgstr "File"
+
+msgctxt "#30107"
+msgid "Insert Url:"
+msgstr "Insert Url:"
+
+msgctxt "#30108"
+msgid "File Path:"
+msgstr "File Path:"
+
+msgctxt "#30109"
+msgid "OK"
+msgstr "OK"
+
 # Quasar daemon
 
 msgctxt "#30200"

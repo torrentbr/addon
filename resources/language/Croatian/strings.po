@@ -1,0 +1,291 @@
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-07 15:15+0100\n"
+"PO-Revision-Date: 2016-02-07 15:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hr_HR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+msgctxt "#30000"
+msgid "General"
+msgstr "Općenito"
+
+msgctxt "#30001"
+msgid "Download path (not FAT32)"
+msgstr "Lokacija skidanja (ne FAT32)"
+
+msgctxt "#30002"
+msgid "Keep files after playback/download stops"
+msgstr "Zadrži datoteke nakon gledanja/skidanja"
+
+msgctxt "#30003"
+msgid "Buffer size (MB)"
+msgstr "Velicina buffera (MB)"
+
+msgctxt "#30004"
+msgid "Max upload rate (kB/s)"
+msgstr "Max brzina uploada (kB/s)"
+
+msgctxt "#30005"
+msgid "Max download rate (kB/s)"
+msgstr "Max brzina downloada (kB/s)"
+
+msgctxt "#30006"
+msgid "Listen port min"
+msgstr "Slusaj port Min"
+
+msgctxt "#30007"
+msgid "Listen port max"
+msgstr "Slusaj port Max"
+
+msgctxt "#30008"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#30009"
+msgid "SOCKS v5 Configuration"
+msgstr "SOCKS v5 konfiguracija"
+
+msgctxt "#30010"
+msgid "Enabled"
+msgstr "Omogućeno"
+
+msgctxt "#30011"
+msgid "Host"
+msgstr "Host"
+
+msgctxt "#30012"
+msgid "Port"
+msgstr "Port"
+
+msgctxt "#30013"
+msgid "Login"
+msgstr "Korisničko ime"
+
+msgctxt "#30014"
+msgid "Password"
+msgstr "Šifra"
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr "Napredno"
+
+msgctxt "#30016"
+msgid "Custom provider timeout"
+msgstr "Proizvoljni timeout za providera"
+
+msgctxt "#30017"
+msgid "Enabled (use at your own risk)"
+msgstr "Omogućeno (koristi na vlastiti rizik)"
+
+msgctxt "#30018"
+msgid "Timeout in seconds"
+msgstr "Timeout u sekundama"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Održavanje"
+
+msgctxt "#30020"
+msgid "Clear cache"
+msgstr "Izbriši cache"
+
+msgctxt "#30021"
+msgid "Enable pagination"
+msgstr "Omogući pagination"
+
+msgctxt "#30022"
+msgid "Enable overlay status"
+msgstr "Omogući statusni overlay"
+
+msgctxt "#30023"
+msgid "Choose stream automatically"
+msgstr "Automatski izaberi stream"
+
+msgctxt "#30024"
+msgid "Get updates for pre-releases"
+msgstr "Primi nadogradnje prije izdanja (pre-release)"
+
+msgctxt "#30025"
+msgid "Limit rates after buffering only"
+msgstr "Ograniči brzinu nakon što se napuni buffer"
+
+msgctxt "#30026"
+msgid "Library path"
+msgstr "Lokacija library-a"
+
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Limit konekcija"
+
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "Pozadinski rad torrenta"
+
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "Učestalost spremanja sesije (sekunde)"
+
+# Interface
+msgctxt "#30100"
+msgid "Quasar has crashed, restarting..."
+msgstr "Quasarse srušio, ponovno pokrećem..."
+
+msgctxt "#30101"
+msgid "You must restart Kodi before using Quasar"
+msgstr "Morate restartati Kodi prije korištenja Quasara"
+
+msgctxt "#30102"
+msgid "This add-on can only be run from within Quasar"
+msgstr "Ovaj add-on se može pokrenuti jedino iz Quasara"
+
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "Ne može se naći Quasarov binary"
+
+# Quasar daemon
+msgctxt "#30200"
+msgid "Cache cleared"
+msgstr "Cache očišćen"
+
+msgctxt "#30201"
+msgid "Search TV Shows"
+msgstr "Traži TV serije"
+
+msgctxt "#30202"
+msgid "Choose stream..."
+msgstr "Izaberi Stream..."
+
+msgctxt "#30203"
+msgid "Show information"
+msgstr "Informacije o seriji"
+
+msgctxt "#30204"
+msgid "Unable to find any providers"
+msgstr "Ne mogu naći providere"
+
+msgctxt "#30205"
+msgid "No links were found"
+msgstr "Nije pronađen niti jedan link"
+
+msgctxt "#30206"
+msgid "Search Movies"
+msgstr "Traži filmove"
+
+msgctxt "#30207"
+msgid "Not enough space available on the download path."
+msgstr "Nema dovoljno mjesta na lokaciji skidanja."
+
+msgctxt "#30208"
+msgid "Quasar daemon has started"
+msgstr "Quasar daemon je pokrenut"
+
+msgctxt "#30209"
+msgid "Search"
+msgstr "Traži"
+
+msgctxt "#30210"
+msgid "Most Popular"
+msgstr "Najpopularnije"
+
+msgctxt "#30211"
+msgid "Top Rated"
+msgstr "Najbolje ocjenjeno"
+
+msgctxt "#30212"
+msgid "Most Voted"
+msgstr "Najviše glasano"
+
+msgctxt "#30213"
+msgid "IMDB Top 250"
+msgstr "IMDB Top 250"
+
+msgctxt "#30214"
+msgid "Movies"
+msgstr "Filmovi"
+
+msgctxt "#30215"
+msgid "TV Shows"
+msgstr "TV Serije"
+
+msgctxt "#30216"
+msgid "Paste URL"
+msgstr "Zalijepi URL (Paste)"
+
+msgctxt "#30217"
+msgid "Paste Magnet or URL"
+msgstr "Zalijepi Magnet ili URL"
+
+msgctxt "#30218"
+msgid "Next page"
+msgstr "Slijedeća stranica"
+
+msgctxt "#30219"
+msgid "Add/Remove from library"
+msgstr "Dodaj/Ukloni iz library-a"
+
+msgctxt "#30220"
+msgid "Library path not set"
+msgstr "Lokacija library-a nije određena"
+
+msgctxt "#30221"
+msgid "Item successfully added to library"
+msgstr "Uspješno dodano u library"
+
+msgctxt "#30222"
+msgid "Item removed from library"
+msgstr "Uklonjeno iz library-a"
+
+msgctxt "#30223"
+msgid "Files"
+msgstr "Datoteke"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Greška u provideru"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Greška u navigaciji"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Greška Daemona"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Greška prilikom updatea Quasar daemona"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Dostupni streamovi za"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "Torrenti"
+
+msgctxt "#30230"
+msgid "Play/resume torrent"
+msgstr "Pokreni/nastavi torrent"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "Pauziraj torrent"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "Izbriši torrent"

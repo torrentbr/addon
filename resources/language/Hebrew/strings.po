@@ -4,10 +4,8 @@
 # Addon Provider: steeve
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-05 09:10+0200\n"
-"PO-Revision-Date: 2016-02-05 09:10+0200\n"
+"POT-Creation-Date: 2016-02-07 14:44+0200\n"
+"PO-Revision-Date: 2016-02-07 14:45+0200\n"
 "Last-Translator: Assaf Sapir <meijin007@gmail.com>\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -15,7 +13,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.6\n"
 
 # Settings
 msgctxt "#30000"
@@ -129,6 +126,14 @@ msgstr "נתיב לספריה"
 msgctxt "#30027"
 msgid "Connections limit"
 msgstr "הגבלת חיבורים"
+
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "ניהול טיפול בטורנטים ברקע"
+
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "תדירות שמירת ההפעלה (בשניות)"
 
 # Interface
 msgctxt "#30100"
@@ -263,3 +268,19 @@ msgstr "שגיאה בעדכון של שרת Quasar"
 msgctxt "#30228"
 msgid "Available streams for"
 msgstr "מקורות זמינים עבור"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "טורנטים"
+
+msgctxt "#30230"
+msgid "Play/resume torrent"
+msgstr "ניגון/המשך טורנט"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "השהיית טורנט"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "מחיקת טורנט"

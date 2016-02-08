@@ -275,8 +275,8 @@ msgid "Torrents"
 msgstr "Torrents"
 
 msgctxt "#30230"
-msgid "Play/resume torrent"
-msgstr "Play/resume torrent"
+msgid "Play / resume torrent"
+msgstr "Play / resume torrent"
 
 msgctxt "#30231"
 msgid "Pause torrent"
@@ -293,3 +293,7 @@ msgstr "Pause session"
 msgctxt "#30234"
 msgid "Resume session"
 msgstr "Resume session"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Resume torrent"

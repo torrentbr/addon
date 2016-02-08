@@ -269,7 +269,7 @@ msgid "Torrents"
 msgstr "Torrent"
 
 msgctxt "#30230"
-msgid "Play/resume torrent"
+msgid "Play / resume torrent"
 msgstr "Avvia/riprendi torrent"
 
 msgctxt "#30231"

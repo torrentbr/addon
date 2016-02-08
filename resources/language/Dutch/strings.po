@@ -234,7 +234,7 @@ msgid "Next page"
 msgstr "Volgende Pagina"
 
 msgctxt "#30219"
-msgid "Add/Remove from library"
+msgid "Add / Remove from library"
 msgstr "Toevoegen/verwijderen van bibliotheek"
 
 msgctxt "#30220"

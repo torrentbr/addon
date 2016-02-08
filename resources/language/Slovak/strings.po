@@ -228,7 +228,7 @@ msgid "Next page"
 msgstr "Ďaľšia strana"
 
 msgctxt "#30219"
-msgid "Add/Remove from library"
+msgid "Add / Remove from library"
 msgstr "Pridať/Odobrať z knižnice"
 
 msgctxt "#30220"

@@ -230,7 +230,7 @@ msgid "Next page"
 msgstr "עמוד הבא"
 
 msgctxt "#30219"
-msgid "Add/Remove from library"
+msgid "Add / Remove from library"
 msgstr "הוספה/הסרה מהספרייה"
 
 msgctxt "#30220"

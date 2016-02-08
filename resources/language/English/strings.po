@@ -153,8 +153,8 @@ msgid "Unable to find Quasar binary"
 msgstr "Unable to find Quasar binary"
 
 msgctxt "#30104"
-msgid "Insert File or Url"
-msgstr "Insert File or Url"
+msgid "Insert file or URL"
+msgstr "Insert file or URL"
 
 msgctxt "#30105"
 msgid "URL"
@@ -165,12 +165,12 @@ msgid "File"
 msgstr "File"
 
 msgctxt "#30107"
-msgid "Insert Url:"
-msgstr "Insert Url:"
+msgid "Insert URL"
+msgstr "Insert URL"
 
 msgctxt "#30108"
-msgid "File Path:"
-msgstr "File Path:"
+msgid "File path"
+msgstr "File path"
 
 msgctxt "#30109"
 msgid "OK"
@@ -255,8 +255,8 @@ msgid "Next page"
 msgstr "Next page"
 
 msgctxt "#30219"
-msgid "Add/Remove from library"
-msgstr "Add/Remove from library"
+msgid "Add / Remove from library"
+msgstr "Add / Remove from library"
 
 msgctxt "#30220"
 msgid "Library path not set"

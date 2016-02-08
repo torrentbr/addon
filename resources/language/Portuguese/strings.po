@@ -143,7 +143,7 @@ msgid "Unable to find Quasar binary"
 msgstr "Binario nao encontrado"
 
 msgctxt "#30104"
-msgid "Insert File or Url"
+msgid "Insert file or URL"
 msgstr "Inserir Ficheiro ou Url"
 
 msgctxt "#30105"
@@ -155,11 +155,11 @@ msgid "File"
 msgstr "Ficheiro"
 
 msgctxt "#30107"
-msgid "Insert Url:"
+msgid "Insert URL"
 msgstr "Inserir Url:"
 
 msgctxt "#30108"
-msgid "File Path:"
+msgid "File path"
 msgstr "Caminho do Ficheiro:"
 
 msgctxt "#30109"
@@ -244,7 +244,7 @@ msgid "Next page"
 msgstr "Próxima Página"
 
 msgctxt "#30219"
-msgid "Add/Remove from library"
+msgid "Add / Remove from library"
 msgstr "Adicionar/Remover da Biblioteca"
 
 msgctxt "#30220"

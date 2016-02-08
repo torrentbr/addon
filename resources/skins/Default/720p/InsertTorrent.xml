@@ -43,8 +43,8 @@
 				<height>43</height>
 				<visible>true</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
-				<texturefocus colordiffuse="FFFFAAFF">Button/button-focus.png</texturefocus>
-				<texturenofocus colordiffuse="FFFFAAFF">Button/button-nofocus.png</texturenofocus>
+				<texturefocus>Button/button-focus.png</texturefocus>
+				<texturenofocus>Button/button-nofocus.png</texturenofocus>
 				<wrapmultiline>true</wrapmultiline>
 				<font>font12</font>
 				<label>$ADDON[plugin.video.quasar 30105]</label>
@@ -67,8 +67,8 @@
 				<height>43</height>
 				<visible>true</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
-				<texturefocus colordiffuse="FFFFAAFF">Button/button-focus.png</texturefocus>
-				<texturenofocus colordiffuse="FFFFAAFF">Button/button-nofocus.png</texturenofocus>
+				<texturefocus>Button/button-focus.png</texturefocus>
+				<texturenofocus>Button/button-nofocus.png</texturenofocus>
 				<wrapmultiline>true</wrapmultiline>
 				<font>font12</font>
 				<label>$ADDON[plugin.video.quasar 30106]</label>
@@ -91,8 +91,8 @@
 				<height>43</height>
 				<visible>true</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
-				<texturefocus colordiffuse="FFFFAAFF">Button/button-focus.png</texturefocus>
-				<texturenofocus colordiffuse="FFFFAAFF">Button/button-nofocus.png</texturenofocus>
+				<texturefocus>Button/button-focus.png</texturefocus>
+				<texturenofocus>Button/button-nofocus.png</texturenofocus>
 				<wrapmultiline>true</wrapmultiline>
 				<font>font12</font>
 				<label>$ADDON[plugin.video.quasar 30109]</label>
@@ -146,7 +146,7 @@
 				<textcolor>FFB2D4F5</textcolor>
 				<disabledcolor>FF000000</disabledcolor>
 				<invalidcolor>FFFFFFFF</invalidcolor>
-				<texturefocus>Button/button-focus2.png</texturefocus>
+				<texturefocus>Button/button-focus.png</texturefocus>
 				<texturenofocus>Button/button-nofocus.png</texturenofocus>
 				<pulseonselect>no</pulseonselect>
 				<onright>32508</onright>
@@ -159,8 +159,8 @@
 				<height>43</height>
 				<visible>SubString(Control.GetLabel(32501),*)</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
-				<texturefocus colordiffuse="FFFFAAFF">Button/button-focus2.png</texturefocus>
-				<texturenofocus colordiffuse="FFFFAAFF">Button/button-nofocus.png</texturenofocus>
+				<texturefocus>Button/button-focus.png</texturefocus>
+				<texturenofocus>Button/button-nofocus.png</texturenofocus>
 				<wrapmultiline>false</wrapmultiline>
 				<font>font14</font>
 				<textcolor>FFB2D4F5</textcolor>
@@ -193,8 +193,8 @@
 				<height>43</height>
 				<visible>SubString(Control.GetLabel(32502),*)</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
-				<texturefocus colordiffuse="FFFFAAFF">Button/button-focus2.png</texturefocus>
-				<texturenofocus colordiffuse="FFFFAAFF">Button/button-nofocus.png</texturenofocus>
+				<texturefocus>Button/button-focus.png</texturefocus>
+				<texturenofocus>Button/button-nofocus.png</texturenofocus>
 				<wrapmultiline>false</wrapmultiline>
 				<font>font14</font>
 				<textcolor>FFB2D4F5</textcolor>

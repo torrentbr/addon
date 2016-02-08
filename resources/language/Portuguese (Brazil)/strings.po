@@ -20,31 +20,31 @@ msgstr "Geral"
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Pasta de Download (NÃO FAT32)"
+msgstr "Pasta de download (NÃO FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Manter arquivos depois da reprodução parar"
+msgstr "Manter arquivos após o fim do download/reprodução"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
-msgstr "Tamanho do Buffer (MB)"
+msgstr "Tamanho do buffer (MB)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
-msgstr "Máxima Taxa de Upload (kB/s)"
+msgstr "Taxa de upload máx. (kB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
-msgstr "Máxima Taxa de Download (kB/S)"
+msgstr "Taxa de download máx. (kB/S)"
 
 msgctxt "#30006"
 msgid "Listen port min"
-msgstr "Porta Min"
+msgstr "Porta mín."
 
 msgctxt "#30007"
 msgid "Listen port max"
-msgstr "Porta Max"
+msgstr "Porta máx."
 
 msgctxt "#30008"
 msgid "Proxy"
@@ -56,7 +56,7 @@ msgstr "Configuração SOCKS v5"
 
 msgctxt "#30010"
 msgid "Enabled"
-msgstr "Ativo"
+msgstr "Habilitado"
 
 msgctxt "#30011"
 msgid "Host"
@@ -80,15 +80,15 @@ msgstr "Avançado"
 
 msgctxt "#30016"
 msgid "Custom provider timeout"
-msgstr "Timeout do Provider"
+msgstr "Tempo limite do provedor"
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
-msgstr "Ativar (use à sua responsabilidade)"
+msgstr "Habilitado (use por sua conta e risco)"
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
-msgstr "Timeout em segundos"
+msgstr "Tempo limite em segundos"
 
 msgctxt "#30019"
 msgid "Maintenance"
@@ -100,47 +100,47 @@ msgstr "Apagar cache"
 
 msgctxt "#30021"
 msgid "Enable pagination"
-msgstr "Ativar Paginação"
+msgstr "Ativar paginação"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Ativar Barra de Status"
+msgstr "Permitir status sobreposto"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
-msgstr "Escolher Fonte Automaticamente"
+msgstr "Escolher fonte automaticamente"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
-msgstr "Obter updates para pre-releases"
+msgstr "Receber atualizações de pré-lançamentos"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
-msgstr "Limitar taxas apenas depois do buffering"
+msgstr "Limitar taxas apenas ao final do buffer"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Pasta da Biblioteca"
+msgstr "Pasta da biblioteca"
 
 # Interface
 
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
-msgstr "Quasar fechou de forma inesperada, a reiniciar..."
+msgstr "Quasar parou de funcionar. Reiniciando..."
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Quasar"
-msgstr "Deve reiniciar o Kodi antes de usar o Quasar"
+msgstr "Você precisa reiniciar o Kodi antes de usar o Quasar"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
-msgstr "Este addon apenas pode ser iniciado pelo Quasar"
+msgstr "Este addon só pode ser executado pelo Quasar"
 
 # Quasar daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "Cache apagada"
+msgstr "Cache apagado"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
@@ -148,11 +148,11 @@ msgstr "Pesquisar Séries"
 
 msgctxt "#30202"
 msgid "Choose stream..."
-msgstr "Escolher Fonte..."
+msgstr "Escolher fonte..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Informação do Filme"
+msgstr "Mostrar informação"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
@@ -160,7 +160,7 @@ msgstr "Não foi possível encontrar provedores"
 
 msgctxt "#30205"
 msgid "No links were found"
-msgstr "Não foram encontrados links"
+msgstr "Nenhum link foi encontrado"
 
 msgctxt "#30206"
 msgid "Search Movies"
@@ -168,11 +168,11 @@ msgstr "Pesquisar Filmes"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
-msgstr "Sem espaço disponível na pasta de download."
+msgstr "Não há espaço suficiente na pasta de download."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Quasar daemon foi iniciado"
+msgstr "O serviço Quasar iniciou"
 
 msgctxt "#30209"
 msgid "Search"
@@ -208,27 +208,27 @@ msgstr "Inserir URL"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "Insira o Magnet ou URL"
+msgstr "Inserir Magnet ou URL"
 
 msgctxt "#30218"
 msgid "Next page"
-msgstr "Próxima Página"
+msgstr "Próxima página"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
-msgstr "Adicionar/Remover da Biblioteca"
+msgstr "Adicionar/Remover da biblioteca"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Pasta da Biblioteca nao definida"
+msgstr "Pasta da biblioteca não definida"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "Item adicionado na Biblioteca"
+msgstr "Item adicionado à biblioteca"
 
 msgctxt "#30222"
 msgid "Item removed from library"
-msgstr "Item removido da Biblioteca"
+msgstr "Item removido da biblioteca"
 
 msgctxt "#30223"
 msgid "Files"

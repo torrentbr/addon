@@ -138,6 +138,34 @@ msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
 msgstr "Este addon apenas pode ser corrido pelo Quasar"
 
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "Binario nao encontrado"
+
+msgctxt "#30104"
+msgid "Insert File or Url"
+msgstr "Inserir Ficheiro ou Url"
+
+msgctxt "#30105"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "#30106"
+msgid "File"
+msgstr "Ficheiro"
+
+msgctxt "#30107"
+msgid "Insert Url:"
+msgstr "Inserir Url:"
+
+msgctxt "#30108"
+msgid "File Path:"
+msgstr "Caminho do Ficheiro:"
+
+msgctxt "#30109"
+msgid "OK"
+msgstr "OK"
+
 # Quasar daemon
 msgctxt "#30200"
 msgid "Cache cleared"

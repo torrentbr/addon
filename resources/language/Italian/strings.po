@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2016-02-07 13:00+0200\n"
+"PO-Revision-Date: 2016-02-09 22:14+0200\n"
 "Last-Translator: greenbaburu <pigiard@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -20,31 +20,31 @@ msgstr "Generale"
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Percorso di Archiviazione (NON FAT32)"
+msgstr "Percorso di archiviazione (non FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Archivia i file dopo la riproduzione/download"
+msgstr "Archivia i file dopo la riproduzione / download"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
-msgstr "Dimensione Buffer (MB)"
+msgstr "Dimensione buffer (MB)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
-msgstr "Velocità massima di Upload (kbB/s)"
+msgstr "Velocità massima di upload (kbB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
-msgstr "Velocità massima di Download (kB/s)"
+msgstr "Velocità massima di download (kB/s)"
 
 msgctxt "#30006"
 msgid "Listen port min"
-msgstr "Porta in ascolto Min"
+msgstr "Porta in ascolto min"
 
 msgctxt "#30007"
 msgid "Listen port max"
-msgstr "Porta in ascolto Max"
+msgstr "Porta in ascolto max"
 
 msgctxt "#30008"
 msgid "Proxy"
@@ -80,7 +80,7 @@ msgstr "Avanzato"
 
 msgctxt "#30016"
 msgid "Custom provider timeout"
-msgstr "Imposta tempo limite del Provider"
+msgstr "Imposta tempo limite del provider"
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
@@ -100,7 +100,7 @@ msgstr "Svuota cache"
 
 msgctxt "#30021"
 msgid "Enable pagination"
-msgstr "Abilita Impaginazione"
+msgstr "Abilita impaginazione"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
@@ -108,7 +108,7 @@ msgstr "Abilita stato in sovraimpressione"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
-msgstr "Scegli fonte Automaticamente"
+msgstr "Scegli fonte automaticamente"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
@@ -120,7 +120,7 @@ msgstr "Limita banda dopo il buffering"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Percorso Libreria"
+msgstr "Percorso libreria"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -154,11 +154,11 @@ msgstr "Cache svuotata"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
-msgstr "Cerca Serie TV"
+msgstr "Cerca serie TV"
 
 msgctxt "#30202"
 msgid "Choose stream..."
-msgstr "Scegli Fonte..."
+msgstr "Scegli fonte..."
 
 msgctxt "#30203"
 msgid "Show information"
@@ -174,7 +174,7 @@ msgstr "Nessun collegamento trovato"
 
 msgctxt "#30206"
 msgid "Search Movies"
-msgstr "Cerca Film"
+msgstr "Cerca film"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
@@ -190,15 +190,15 @@ msgstr "Cerca"
 
 msgctxt "#30210"
 msgid "Most Popular"
-msgstr "Più Popolari"
+msgstr "Più popolari"
 
 msgctxt "#30211"
 msgid "Top Rated"
-msgstr "Miglior Voto"
+msgstr "Miglior voto"
 
 msgctxt "#30212"
 msgid "Most Voted"
-msgstr "Più Votati"
+msgstr "Più votati"
 
 msgctxt "#30213"
 msgid "IMDB Top 250"
@@ -218,27 +218,27 @@ msgstr "Incolla URL"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "Incolla Magnet o URL"
+msgstr "Incolla magnet o URL"
 
 msgctxt "#30218"
 msgid "Next page"
-msgstr "Prossima Pagina"
+msgstr "Prossima pagina"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
-msgstr "Aggiungi/Rimuovi dalla Libreria"
+msgstr "Aggiungi / Rimuovi dalla Libreria"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Percorso Libreria non impostato"
+msgstr "Percorso libreria non impostato"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "Oggetto aggiunto alla Libreria con successo"
+msgstr "Oggetto aggiunto alla libreria con successo"
 
 msgctxt "#30222"
 msgid "Item removed from library"
-msgstr "Oggetto rimosso dalla Libreria"
+msgstr "Oggetto rimosso dalla libreria"
 
 msgctxt "#30223"
 msgid "Files"
@@ -246,7 +246,7 @@ msgstr "File"
 
 msgctxt "#30224"
 msgid "Provider error"
-msgstr "Errore del Provider"
+msgstr "Errore del provider"
 
 msgctxt "#30225"
 msgid "Navigation error"
@@ -270,7 +270,7 @@ msgstr "Torrent"
 
 msgctxt "#30230"
 msgid "Play / resume torrent"
-msgstr "Avvia/riprendi torrent"
+msgstr "Avvia / riprendi torrent"
 
 msgctxt "#30231"
 msgid "Pause torrent"

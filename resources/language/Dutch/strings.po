@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-07 15:15+0100\n"
-"PO-Revision-Date: 2016-02-07 15:17+0100\n"
+"POT-Creation-Date: 2016-02-09 17:53+0100\n"
+"PO-Revision-Date: 2016-02-09 17:55+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl_NL\n"
@@ -156,6 +156,30 @@ msgctxt "#30103"
 msgid "Unable to find Quasar binary"
 msgstr "Quasar binary niet gevonden"
 
+msgctxt "#30104"
+msgid "Insert file or URL"
+msgstr "Invoeren file of URL"
+
+msgctxt "#30105"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "#30106"
+msgid "File"
+msgstr "File"
+
+msgctxt "#30107"
+msgid "Insert URL"
+msgstr "Invoeren URL"
+
+msgctxt "#30108"
+msgid "File path"
+msgstr "File pad"
+
+msgctxt "#30109"
+msgid "OK"
+msgstr "OK"
+
 # Quasar daemon
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -288,3 +312,15 @@ msgstr "Pauzeren torrent"
 msgctxt "#30232"
 msgid "Delete torrent"
 msgstr "Verwijder torrent"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Pauzeer sessie"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Resumeer sessie"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Resumeer torrent"

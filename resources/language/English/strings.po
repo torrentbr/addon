@@ -321,3 +321,7 @@ msgstr "Resume session"
 msgctxt "#30235"
 msgid "Resume torrent"
 msgstr "Resume torrent"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Recently Released"

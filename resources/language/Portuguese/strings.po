@@ -5,15 +5,12 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-02-02 06:24-0500\n"
+"PO-Revision-Date: 2016-02-10 12:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pt\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Project-Id-Version: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "X-Generator: Poedit 1.8.6\n"
 
 # Settings
@@ -23,7 +20,7 @@ msgstr "Geral"
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Pasta de Download (NÃO FAT32)"
+msgstr "Pasta de download (não FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
@@ -31,15 +28,15 @@ msgstr "Manter ficheiros depois da reprodução/download parar"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
-msgstr "Tamanho do Buffer (MB)"
+msgstr "Tamanho do buffer (MB)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
-msgstr "Máxima Taxa de Upload (kB/s)"
+msgstr "Taxa máxima de upload (kB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
-msgstr "Máxima Taxa de Download (kB/S)"
+msgstr "Taxa máxima de download (kB/S)"
 
 msgctxt "#30006"
 msgid "Listen port min"
@@ -83,7 +80,7 @@ msgstr "Avançado"
 
 msgctxt "#30016"
 msgid "Custom provider timeout"
-msgstr "Timeout do Provider"
+msgstr "Timeout do provedor"
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
@@ -103,19 +100,19 @@ msgstr "Apagar cache"
 
 msgctxt "#30021"
 msgid "Enable pagination"
-msgstr "Activar Paginação"
+msgstr "Activar paginação"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Activar Barra de Estado Sobreposta"
+msgstr "Activar barra de estado sobreposta"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
-msgstr "Escolher Stream Automaticamente"
+msgstr "Escolher stream automaticamente"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
-msgstr "Obter updates para Pré-lançamentos"
+msgstr "Obter updates de teste"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
@@ -123,7 +120,19 @@ msgstr "Limitar taxas apenas depois do buffering"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Pasta da Biblioteca"
+msgstr "Pasta da biblioteca"
+
+msgctxt "#30027"
+msgid "Connections limit"
+msgstr "Limite de conexões"
+
+msgctxt "#30028"
+msgid "Background handling of torrents"
+msgstr "Manuseio de torrents em segundo plano"
+
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "Frequência de gravação da sessão (segundos)"
 
 # Interface
 msgctxt "#30100"
@@ -140,11 +149,11 @@ msgstr "Este addon apenas pode ser corrido pelo Quasar"
 
 msgctxt "#30103"
 msgid "Unable to find Quasar binary"
-msgstr "Binario nao encontrado"
+msgstr "Binario do Quasar não encontrado"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
-msgstr "Inserir Ficheiro ou Url"
+msgstr "Inserir ficheiro ou URL"
 
 msgctxt "#30105"
 msgid "URL"
@@ -156,11 +165,11 @@ msgstr "Ficheiro"
 
 msgctxt "#30107"
 msgid "Insert URL"
-msgstr "Inserir Url:"
+msgstr "Inserir URL:"
 
 msgctxt "#30108"
 msgid "File path"
-msgstr "Caminho do Ficheiro:"
+msgstr "Caminho do ficheiro:"
 
 msgctxt "#30109"
 msgid "OK"
@@ -169,7 +178,7 @@ msgstr "OK"
 # Quasar daemon
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "Cache apagado"
+msgstr "Cache apagada"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
@@ -177,15 +186,15 @@ msgstr "Pesquisar Séries"
 
 msgctxt "#30202"
 msgid "Choose stream..."
-msgstr "Escolher Stream..."
+msgstr "Escolher stream..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Mostrar Informação"
+msgstr "Mostrar informação"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
-msgstr "Não foi possível encontrar providers"
+msgstr "Não foi possível encontrar provedores"
 
 msgctxt "#30205"
 msgid "No links were found"
@@ -201,7 +210,7 @@ msgstr "Sem espaço disponível na pasta de download."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "Quasar daemon foi iniciado"
+msgstr "Foi iniciado o Quasar daemon"
 
 msgctxt "#30209"
 msgid "Search"
@@ -241,24 +250,84 @@ msgstr "Insira o Magnet ou URL"
 
 msgctxt "#30218"
 msgid "Next page"
-msgstr "Próxima Página"
+msgstr "Próxima página"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
-msgstr "Adicionar/Remover da Biblioteca"
+msgstr "Adicionar/Remover da biblioteca"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Pasta da Biblioteca nao definida"
+msgstr "Pasta da biblioteca não definida"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "Item adicionado na Biblioteca"
+msgstr "Item adicionado à biblioteca"
 
 msgctxt "#30222"
 msgid "Item removed from library"
-msgstr "Item removido da Biblioteca"
+msgstr "Item removido da biblioteca"
 
 msgctxt "#30223"
 msgid "Files"
 msgstr "Ficheiros"
+
+msgctxt "#30224"
+msgid "Provider error"
+msgstr "Erro de provedor"
+
+msgctxt "#30225"
+msgid "Navigation error"
+msgstr "Erro de navegação"
+
+msgctxt "#30226"
+msgid "Daemon error"
+msgstr "Erro do daemon"
+
+msgctxt "#30227"
+msgid "Error updating Quasar daemon"
+msgstr "Erro ao actualizar o Quasar daemon"
+
+msgctxt "#30228"
+msgid "Available streams for"
+msgstr "Streams disponiveis para"
+
+msgctxt "#30229"
+msgid "Torrents"
+msgstr "Torrents"
+
+msgctxt "#30230"
+msgid "Play / resume torrent"
+msgstr "Reproduzir/Retomar torrent"
+
+msgctxt "#30231"
+msgid "Pause torrent"
+msgstr "Pausar torrent"
+
+msgctxt "#30232"
+msgid "Delete torrent"
+msgstr "Apagar torrent"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Pausar sessão"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Retomar sessão"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Retomar torrent"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Lançamentos Recentes"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Séries Recentes"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Episódios Recentes"

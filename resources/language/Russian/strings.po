@@ -21,11 +21,11 @@ msgstr "Общие"
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Путь для скачивания (не для FAT32)"
+msgstr "Путь для скачивания (кроме FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Хранить файлы после остановки воспроизвидения/загрузки"
+msgstr "Сохранять файлы после остановки воспроизвидения/загрузки"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
@@ -53,11 +53,11 @@ msgstr "Прокси"
 
 msgctxt "#30009"
 msgid "SOCKS v5 Configuration"
-msgstr "Конфигурация SOCKS v5"
+msgstr "SOCKS v5"
 
 msgctxt "#30010"
 msgid "Enabled"
-msgstr "Включено"
+msgstr "Включить"
 
 msgctxt "#30011"
 msgid "Host"
@@ -85,7 +85,7 @@ msgstr "Пользовательский тайм-аут провайдера"
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
-msgstr "Включено (используйте на ваш риск)"
+msgstr "Включить (используйте на ваш риск)"
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
@@ -109,7 +109,7 @@ msgstr "Включить overlay статус"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
-msgstr "Выбрать стрим автоматически"
+msgstr "Выбирать торрент автоматически"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
@@ -117,7 +117,7 @@ msgstr "Получать обновления для пре-релизов"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
-msgstr "Ограничить скорости после буферизации"
+msgstr "Ограничить скорость только после буферизации"
 
 msgctxt "#30026"
 msgid "Library path"
@@ -130,6 +130,10 @@ msgstr "Лимит подключений"
 msgctxt "#30028"
 msgid "Background handling of torrents"
 msgstr "Фоновая обработка торрентов"
+
+msgctxt "#30029"
+msgid "Session saving frequency (seconds)"
+msgstr "Частота сохранений в сессии (сек.)"
 
 # Interface
 
@@ -157,7 +161,7 @@ msgstr "Кеш очищен"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
-msgstr "Искать сериалы"
+msgstr "Искать сериал"
 
 msgctxt "#30202"
 msgid "Choose stream..."
@@ -165,7 +169,7 @@ msgstr "Выбрать стрим..."
 
 msgctxt "#30203"
 msgid "Show information"
-msgstr "Информация о сериале"
+msgstr "Инфо"
 
 msgctxt "#30204"
 msgid "Unable to find any providers"
@@ -177,7 +181,7 @@ msgstr "Стримы не найдены"
 
 msgctxt "#30206"
 msgid "Search Movies"
-msgstr "Искать фильмы"
+msgstr "Искать фильм"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
@@ -209,7 +213,7 @@ msgstr "IMDB Топ 250"
 
 msgctxt "#30214"
 msgid "Movies"
-msgstr Фильмы"
+msgstr "Фильмы"
 
 msgctxt "#30215"
 msgid "TV Shows"
@@ -282,3 +286,27 @@ msgstr "Остановить торрент"
 msgctxt "#30232"
 msgid "Delete torrent"
 msgstr "Удалить торрент"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Остановить сессию"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Возобновить сессию"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Возобновить торрент"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Новинки"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Новинки"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Новые эпизоды"

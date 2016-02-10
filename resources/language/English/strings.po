@@ -325,3 +325,11 @@ msgstr "Resume torrent"
 msgctxt "#30236"
 msgid "Recently Released"
 msgstr "Recently Released"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Recent Shows"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Recent Episodes"

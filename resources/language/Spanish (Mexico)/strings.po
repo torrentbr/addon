@@ -243,7 +243,7 @@ msgid "TV Shows"
 msgstr "Series de TV"
 
 msgctxt "#30216"
-msgid "Paste URL"
+msgid "Add Torrent"
 msgstr "Insertar URL"
 
 msgctxt "#30217"

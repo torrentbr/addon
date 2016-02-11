@@ -24,12 +24,12 @@
 			</control>
 			<control type="button" id="32500">
 				<!-- Close button -->
-				<posx>972</posx>
-				<posy>212</posy>
-				<width>60</width>
-				<height>30</height>
-				<texturefocus>AddonWindow/DialogCloseButton-focus.png</texturefocus>
-				<texturenofocus>AddonWindow/DialogCloseButton.png</texturenofocus>
+				<posx>986</posx>
+				<posy>217</posy>
+				<width>32</width>
+				<height>32</height>
+				<texturefocus>AddonWindow/dialog_close_focus.png</texturefocus>
+				<texturenofocus>AddonWindow/dialog_close_nofocus.png</texturenofocus>
 				<onup>32508</onup>
 				<ondown>32501</ondown>
 				<onleft condition="SubString(Control.GetLabel(32501),*)">32505</onleft>

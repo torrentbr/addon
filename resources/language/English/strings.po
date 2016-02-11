@@ -243,8 +243,8 @@ msgid "TV Shows"
 msgstr "TV Shows"
 
 msgctxt "#30216"
-msgid "Paste URL"
-msgstr "Paste URL"
+msgid "Add Torrent"
+msgstr "Add Torrent"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"

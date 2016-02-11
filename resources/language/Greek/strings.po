@@ -244,7 +244,7 @@ msgid "TV Shows"
 msgstr "Τηλεοπτικές Σειρές"
 
 msgctxt "#30216"
-msgid "Paste URL"
+msgid "Add Torrent"
 msgstr "Επικόλληση URL"
 
 msgctxt "#30217"

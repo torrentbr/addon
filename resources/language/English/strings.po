@@ -134,6 +134,10 @@ msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
 msgstr "Session saving frequency (seconds)"
 
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Overlay status vertical offset"
+
 # Interface
 
 msgctxt "#30100"

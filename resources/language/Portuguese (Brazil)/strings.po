@@ -212,7 +212,7 @@ msgstr "Não há espaço suficiente na pasta de download."
 
 msgctxt "#30208"
 msgid "Quasar daemon has started"
-msgstr "O serviço Quasar iniciou"
+msgstr "O sistema Quasar iniciou"
 
 msgctxt "#30209"
 msgid "Search"
@@ -244,7 +244,7 @@ msgstr "Séries"
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "Inserir URL"
+msgstr "Adicionar Torrent"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
@@ -288,11 +288,11 @@ msgstr "Erro no serviço"
 
 msgctxt "#30227"
 msgid "Error updating Quasar daemon"
-msgstr "Erro ao atualizar o serviço Quasar"
+msgstr "Erro ao atualizar o sistema Quasar"
 
 msgctxt "#30228"
 msgid "Available streams for"
-msgstr "Fontes disponíveis para"
+msgstr "Fontes encontradas para"
 
 msgctxt "#30229"
 msgid "Torrents"

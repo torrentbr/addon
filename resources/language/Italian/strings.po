@@ -134,6 +134,10 @@ msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
 msgstr "Frequenza di salvataggio sessione (secondi)"
 
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Posizionamento verticale riquadro di stato"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -146,6 +150,34 @@ msgstr "Riavvia Kodi prima di usare Quasar"
 msgctxt "#30102"
 msgid "This add-on can only be run from within Quasar"
 msgstr "Questo add-on funziona solo con Quasar avviato"
+
+msgctxt "#30103"
+msgid "Unable to find Quasar binary"
+msgstr "Binario di Quasar non trovato"
+
+msgctxt "#30104"
+msgid "Insert file or URL"
+msgstr "Inserisci file o URL"
+
+msgctxt "#30105"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "#30106"
+msgid "File"
+msgstr "File"
+
+msgctxt "#30107"
+msgid "Insert URL"
+msgstr "Inserisci URL"
+
+msgctxt "#30108"
+msgid "File path"
+msgstr "Percorso file"
+
+msgctxt "#30109"
+msgid "OK"
+msgstr "OK"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -279,3 +311,27 @@ msgstr "Sospendi torrent"
 msgctxt "#30232"
 msgid "Delete torrent"
 msgstr "Elimina torrent"
+
+msgctxt "#30233"
+msgid "Pause session"
+msgstr "Sospendi sessione"
+
+msgctxt "#30234"
+msgid "Resume session"
+msgstr "Riprendi sessione"
+
+msgctxt "#30235"
+msgid "Resume torrent"
+msgstr "Riprendi torrent"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Uscite recenti"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Serie recenti"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Episodi recenti"

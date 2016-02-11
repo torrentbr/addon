@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-09 17:53+0100\n"
-"PO-Revision-Date: 2016-02-09 17:55+0100\n"
+"POT-Creation-Date: 2016-02-11 23:25+0100\n"
+"PO-Revision-Date: 2016-02-11 23:30+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl_NL\n"
@@ -25,7 +25,7 @@ msgstr "Algemeen"
 
 msgctxt "#30001"
 msgid "Download path (not FAT32)"
-msgstr "Download Pad (GEEN FAT32)"
+msgstr "Download pad (GEEN FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
@@ -33,23 +33,23 @@ msgstr "Behoud bestanden nadat het afspelen/downloaden gestopt is"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
-msgstr "Buffer Grootte (MB)"
+msgstr "Buffer grootte (MB)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
-msgstr "Max Upload Snelheid (kB/s)"
+msgstr "Max upload snelheid (kB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
-msgstr "Max Download Snelheid (kB/s)"
+msgstr "Max download snelheid (kB/s)"
 
 msgctxt "#30006"
 msgid "Listen port min"
-msgstr "Luister Poort Min"
+msgstr "Luister poort min"
 
 msgctxt "#30007"
 msgid "Listen port max"
-msgstr "Luister Poort Max"
+msgstr "Luister poort max"
 
 msgctxt "#30008"
 msgid "Proxy"
@@ -57,7 +57,7 @@ msgstr "Proxy"
 
 msgctxt "#30009"
 msgid "SOCKS v5 Configuration"
-msgstr "SOCKS v5 Configuratie"
+msgstr "SOCKS v5 configuratie"
 
 msgctxt "#30010"
 msgid "Enabled"
@@ -85,7 +85,7 @@ msgstr "Uitgebreid"
 
 msgctxt "#30016"
 msgid "Custom provider timeout"
-msgstr "Aangepaste Provider Time-out"
+msgstr "Aangepaste provider time-out"
 
 msgctxt "#30017"
 msgid "Enabled (use at your own risk)"
@@ -101,23 +101,23 @@ msgstr "Onderhoud"
 
 msgctxt "#30020"
 msgid "Clear cache"
-msgstr "Cache Opschonen"
+msgstr "Cache opschonen"
 
 msgctxt "#30021"
 msgid "Enable pagination"
-msgstr "Pagineren Inschakelen"
+msgstr "Pagineren inschakelen"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Inschakelen Overlay Status Balk"
+msgstr "Inschakelen overlay status balk"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
-msgstr "Kies Stream Automatisch"
+msgstr "Kies stream automatisch"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
-msgstr "Verkrijg Updates voor pre-releases"
+msgstr "Verkrijg updates voor pre-releases"
 
 msgctxt "#30025"
 msgid "Limit rates after buffering only"
@@ -125,7 +125,7 @@ msgstr "Beperk snelheden na het bufferen"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Bibliotheek Pad"
+msgstr "Bibliotheek pad"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -138,6 +138,10 @@ msgstr "Op de achtergrond verwerken van torrents"
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
 msgstr "Frequency voor het opslaan van een sessie (seconden)"
+
+msgctxt "#30030"
+msgid "Overlay status vertical offset"
+msgstr "Overlay status verticale offset"
 
 # Interface
 msgctxt "#30100"
@@ -191,7 +195,7 @@ msgstr "Zoeken van TV Shows"
 
 msgctxt "#30202"
 msgid "Choose stream..."
-msgstr "Kies Stream..."
+msgstr "Kies stream..."
 
 msgctxt "#30203"
 msgid "Show information"
@@ -227,15 +231,15 @@ msgstr "Populairst"
 
 msgctxt "#30211"
 msgid "Top Rated"
-msgstr "Beste Cijfers"
+msgstr "Beste cijfers"
 
 msgctxt "#30212"
 msgid "Most Voted"
-msgstr "Meeste Stemmen"
+msgstr "Meeste stemmen"
 
 msgctxt "#30213"
 msgid "IMDB Top 250"
-msgstr "IMDB Top 250"
+msgstr "IMDB top 250"
 
 msgctxt "#30214"
 msgid "Movies"
@@ -243,7 +247,7 @@ msgstr "Films"
 
 msgctxt "#30215"
 msgid "TV Shows"
-msgstr "TV Shows"
+msgstr "TV shows"
 
 msgctxt "#30216"
 msgid "Add Torrent"
@@ -255,7 +259,7 @@ msgstr "Plak Magnet or URL"
 
 msgctxt "#30218"
 msgid "Next page"
-msgstr "Volgende Pagina"
+msgstr "Volgende pagina"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
@@ -263,7 +267,7 @@ msgstr "Toevoegen/verwijderen van bibliotheek"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Bibliotheek Pad niet omschreven"
+msgstr "Bibliotheek pad niet omschreven"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
@@ -324,3 +328,15 @@ msgstr "Resumeer sessie"
 msgctxt "#30235"
 msgid "Resume torrent"
 msgstr "Resumeer torrent"
+
+msgctxt "#30236"
+msgid "Recently Released"
+msgstr "Onlangs vrijgegeven"
+
+msgctxt "#30237"
+msgid "Recent Shows"
+msgstr "Resente shows"
+
+msgctxt "#30238"
+msgid "Recent Episodes"
+msgstr "Recente episodes"

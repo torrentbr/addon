@@ -183,6 +183,10 @@ msgctxt "#30109"
 msgid "OK"
 msgstr "OK"
 
+msgctxt "#30110"
+msgid "Crashed too many times, aborting..."
+msgstr "Crashed too many times, aborting..."
+
 # Quasar daemon
 msgctxt "#30200"
 msgid "Cache cleared"

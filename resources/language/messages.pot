@@ -142,6 +142,14 @@ msgctxt "#30030"
 msgid "Overlay status vertical offset"
 msgstr "Overlay status vertical offset"
 
+msgctxt "#30031"
+msgid "Disable providers failing health check"
+msgstr "Disable providers failing health check"
+
+msgctxt "#30032"
+msgid "Allowed failures before provider is disabled"
+msgstr "Allowed failures before provider is disabled"
+
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -186,6 +194,14 @@ msgstr "OK"
 msgctxt "#30110"
 msgid "Crashed too many times, aborting..."
 msgstr "Crashed too many times, aborting..."
+
+msgctxt "#30111"
+msgid "Provider failed too many times, disabling..."
+msgstr "Provider failed too many times, disabling..."
+
+msgctxt "#30112"
+msgid "Unable to disable provider"
+msgstr "Unable to disable provider"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -343,3 +359,27 @@ msgstr "Recent Shows"
 msgctxt "#30238"
 msgid "Recent Episodes"
 msgstr "Recent Episodes"
+
+msgctxt "#30239"
+msgid "Providers"
+msgstr "Providers"
+
+msgctxt "#30240"
+msgid "Enable"
+msgstr "Enable"
+
+msgctxt "#30241"
+msgid "Disable"
+msgstr "Disable"
+
+msgctxt "#30242"
+msgid "Check"
+msgstr "Check"
+
+msgctxt "#30243"
+msgid "Provider failures"
+msgstr "Provider failures"
+
+msgctxt "#30244"
+msgid "Provider settings"
+msgstr "Provider settings"

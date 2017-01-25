@@ -749,3 +749,43 @@ msgstr ""
 msgctxt "#30276"
 msgid "Delete torrent and files"
 msgstr ""
+
+msgctxt "#30277"
+msgid "%s added to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr ""
+
+msgctxt "#30278"
+msgid "%s removed from library, do you want to clean it?[CR]You can later use Kodi's 'Clean library' feature instead."
+msgstr ""
+
+msgctxt "#30279"
+msgid "Watchlist added to library"
+msgstr ""
+
+msgctxt "#30280"
+msgid "Collection added to library"
+msgstr ""
+
+msgctxt "#30281"
+msgid "List added to library"
+msgstr ""
+
+msgctxt "#30282"
+msgid "Nothing left to remove from Quasar"
+msgstr ""
+
+msgctxt "#30283"
+msgid "Merge to library"
+msgstr ""
+
+msgctxt "#30284"
+msgid "Show unaired seasons"
+msgstr ""
+
+msgctxt "#30285"
+msgid "Show unaired episodes"
+msgstr ""
+
+msgctxt "#30286"
+msgid "%s merged to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr ""

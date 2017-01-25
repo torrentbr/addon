@@ -14,6 +14,8 @@
         <setting id="choose_stream_auto" type="bool" label="30023" default="true" />
         <setting id="use_original_title" type="bool" label="30038" default="false" />
         <setting id="add_specials" type="bool" label="30055" default="false" />
+        <setting id="unaired_seasons" type="bool" label="30284" default="false" />
+        <setting id="unaired_episodes" type="bool" label="30285" default="false" />
         <setting id="buffer_timeout" type="number" label="30088" default="300" />
     </category>
     <category label="30033">
@@ -82,7 +84,6 @@
         <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.quasar/library/update)" />
         <setting id="library_update_delay" type="number" label="30059" default="300" />
         <setting id="library_update_frequency" type="number" label="30060" default="8" />
-        <setting id="library_ignore_duplicates" type="bool" label="30266" default="true" />
         <setting id="library_tv_scraper" label="30115" type="enum" lvalues="30114|30039|30056" />
         <setting label="30056" type="lsep" />
         <setting type="action" label="30058" action="RunPlugin(plugin://plugin.video.quasar/trakt/authorize)" />

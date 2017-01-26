@@ -5,6 +5,7 @@
         <setting label="30000" type="lsep" />
         <setting id="download_path" type="folder" label="30001" source="auto" option="writeable" />
         <setting id="library_path" type="folder" label="30026" source="auto" option="writeable" />
+        <setting id="library_tv_scraper" label="30115" type="enum" lvalues="30114|30039|30056" />
         <setting id="background_handling" type="bool" label="30028" default="false" />
         <setting id="keep_files" type="bool" label="30002" default="false" />
         <setting id="keep_files_ask" type="bool" label="30087" default="false" />
@@ -84,7 +85,6 @@
         <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.quasar/library/update)" />
         <setting id="library_update_delay" type="number" label="30059" default="300" />
         <setting id="library_update_frequency" type="number" label="30060" default="8" />
-        <setting id="library_tv_scraper" label="30115" type="enum" lvalues="30114|30039|30056" />
         <setting label="30056" type="lsep" />
         <setting type="action" label="30058" action="RunPlugin(plugin://plugin.video.quasar/trakt/authorize)" />
         <setting id="trakt_username" type="text" label="30057" default="" />

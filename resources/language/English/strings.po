@@ -793,3 +793,7 @@ msgstr ""
 msgctxt "#30287"
 msgid "%s already in library"
 msgstr ""
+
+msgctxt "#30288"
+msgid "Library updated, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
+msgstr ""

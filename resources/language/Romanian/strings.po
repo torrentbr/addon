@@ -276,7 +276,7 @@ msgid "TheTVDB"
 msgstr "TheTVDB"
 
 msgctxt "#30115"
-msgid "TV scraper used by library"
+msgid "TV show scraper used by Kodi library"
 msgstr "Scraper TV folosit de librărie"
 
 msgctxt "#30063"

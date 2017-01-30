@@ -443,6 +443,10 @@ msgctxt "#30115"
 msgid "TV show scraper used by Kodi library"
 msgstr ""
 
+msgctxt "#30116"
+msgid "Looks like Quasar is still starting up, give it a few seconds..."
+msgstr ""
+
 
 # Quasar daemon
 

@@ -268,14 +268,6 @@ msgctxt "#30062"
 msgid "Ask to keep the files after streaming"
 msgstr ""
 
-msgctxt "#30114"
-msgid "TheTVDB"
-msgstr ""
-
-msgctxt "#30115"
-msgid "TV show scraper used by Kodi library"
-msgstr ""
-
 msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
 msgstr ""
@@ -437,6 +429,18 @@ msgstr ""
 
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
+msgstr ""
+
+msgctxt "#30114"
+msgid "TheTVDB"
+msgstr ""
+
+msgctxt "#30115"
+msgid "TV show scraper used by Kodi library"
+msgstr ""
+
+msgctxt "#30116"
+msgid "Looks like Quasar is still starting up, give it a few seconds..."
 msgstr ""
 
 

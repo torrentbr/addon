@@ -813,3 +813,47 @@ msgstr ""
 msgctxt "#30289"
 msgid "Genres"
 msgstr ""
+
+msgctxt "#30290"
+msgid "Calendars"
+msgstr ""
+
+msgctxt "#30291"
+msgid "My Movies"
+msgstr ""
+
+msgctxt "#30292"
+msgid "My Releases"
+msgstr ""
+
+msgctxt "#30293"
+msgid "All Movies"
+msgstr ""
+
+msgctxt "#30294"
+msgid "All Releases"
+msgstr ""
+
+msgctxt "#30295"
+msgid "My Shows"
+msgstr ""
+
+msgctxt "#30296"
+msgid "My New Shows"
+msgstr ""
+
+msgctxt "#30297"
+msgid "My Premieres"
+msgstr ""
+
+msgctxt "#30298"
+msgid "All Shows"
+msgstr ""
+
+msgctxt "#30299"
+msgid "All New Shows"
+msgstr ""
+
+msgctxt "#30300"
+msgid "All Premieres"
+msgstr ""

@@ -380,6 +380,14 @@ msgctxt "#30089"
 msgid "Automatically re-scan Kodi library after updates"
 msgstr ""
 
+msgctxt "#30090"
+msgid "Listen interfaces"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Outgoing interfaces"
+msgstr ""
+
 
 # Interface
 

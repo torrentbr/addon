@@ -372,6 +372,18 @@ msgctxt "#30088"
 msgid "Initial buffering timeout (seconds)"
 msgstr ""
 
+msgctxt "#30089"
+msgid "Automatically re-scan Kodi library after updates"
+msgstr ""
+
+msgctxt "#30090"
+msgid "Listen interfaces"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Outgoing interfaces"
+msgstr ""
+
 
 # Interface
 
@@ -441,10 +453,6 @@ msgstr ""
 
 msgctxt "#30116"
 msgid "Looks like Quasar is still starting up, give it a few seconds..."
-msgstr ""
-
-msgctxt "#30089"
-msgid "Automatically re-scan Kodi library after updates"
 msgstr ""
 
 

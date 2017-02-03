@@ -2,7 +2,8 @@
 <window type="dialog">
 	<!-- 1280 x 720 -->
 	<defaultcontrol always="true">32503</defaultcontrol>
-	<depth>DepthOSD</depth>
+	<include>dialogeffect</include>
+	<depth>DepthDialog+</depth>
   <controls>
 		<control type="group">
 			<!-- Background -->
@@ -19,7 +20,7 @@
 				<posy>68</posy>
 				<width>32</width>
 				<height>32</height>
-				<texturefocus colordiffuse="button_focus">Button/close.png</texturefocus>
+				<texturefocus colordiffuse="FF12A0C7">Button/close.png</texturefocus>
 				<texturenofocus colordiffuse="EEFFFFFF">Button/close.png</texturenofocus>
 				<onup>32508</onup>
 				<ondown>32503</ondown>
@@ -42,9 +43,12 @@
 				<posx>1055</posx>
 				<posy>140</posy>
 				<width>10</width>
-				<height>520</height>
+				<height>510</height>
 				<onleft>32503</onleft>
 				<onup>32500</onup>
+				<texturesliderbackground border="0,14,0,14">Scrollbar/scrollbar.png</texturesliderbackground>
+				<texturesliderbar border="2,16,2,16">Scrollbar/scrollbarv_bar.png</texturesliderbar>
+				<texturesliderbarfocus border="2,16,2,16">Scrollbar/scrollbarv_bar_focus.png</texturesliderbarfocus>
 				<showonepage>false</showonepage>
 				<orientation>vertical</orientation>
 			</control>
@@ -54,7 +58,7 @@
 				<posx>215</posx>
 				<posy>140</posy>
 				<width>815</width>
-				<height>520</height>
+				<height>510</height>
 				<onleft>2</onleft>
 				<onright>32502</onright>
 				<onup>32500</onup>

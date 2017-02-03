@@ -2,7 +2,8 @@
 <window type="dialog">
 	<!-- 1280 x 720 -->
 	<defaultcontrol always="true">32501</defaultcontrol>
-	<depth>DepthOSD</depth>
+	<include>dialogeffect</include>
+	<depth>DepthDialog+</depth>
   <controls>
 		<control type="group">
 			<control type="image">
@@ -19,7 +20,7 @@
 				<posy>222</posy>
 				<width>32</width>
 				<height>32</height>
-				<texturefocus colordiffuse="button_focus">Button/close.png</texturefocus>
+				<texturefocus colordiffuse="FF12A0C7">Button/close.png</texturefocus>
 				<texturenofocus colordiffuse="EEFFFFFF">Button/close.png</texturenofocus>
 				<onup>32508</onup>
 				<ondown>32501</ondown>
@@ -28,10 +29,10 @@
 			</control>
 			<control type="radiobutton" id="32501">
 				<!-- Radio Button URL -->
-				<posx>760</posx>
+				<posx>820</posx>
 				<posy>315</posy>
-				<width>280</width>
-				<height>80</height>
+				<width>180</width>
+				<height>43</height>
 				<visible>true</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>true</wrapmultiline>
@@ -50,10 +51,10 @@
 			</control>
 			<control type="radiobutton" id="32502">
 				<!-- Radio Button file path -->
-				<posx>760</posx>
+				<posx>820</posx>
 				<posy>375</posy>
-				<width>280</width>
-				<height>80</height>
+				<width>180</width>
+				<height>43</height>
 				<visible>true</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>true</wrapmultiline>
@@ -72,10 +73,10 @@
 			</control>
 			<control type="button" id="32508">
 				<!-- OK button -->
-				<posx>760</posx>
+				<posx>820</posx>
 				<posy>435</posy>
-				<width>280</width>
-				<height>80</height>
+				<width>180</width>
+				<height>43</height>
 				<visible>true</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>true</wrapmultiline>
@@ -124,7 +125,7 @@
 				<posx>260</posx>
 				<posy>315</posy>
 				<width>500</width>
-				<height>80</height>
+				<height>43</height>
 				<visible>SubString(Control.GetLabel(32501),*)</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>false</wrapmultiline>
@@ -156,7 +157,7 @@
 				<posx>260</posx>
 				<posy>315</posy>
 				<width>500</width>
-				<height>80</height>
+				<height>43</height>
 				<visible>SubString(Control.GetLabel(32502),*)</visible>
 				<colordiffuse>FFFFFFFF</colordiffuse>
 				<wrapmultiline>false</wrapmultiline>

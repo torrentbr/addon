@@ -392,6 +392,10 @@ msgctxt "#30092"
 msgid "Use default fanart"
 msgstr ""
 
+msgctxt "#30093"
+msgid "Do Not Disturb mode"
+msgstr ""
+
 
 # Interface
 

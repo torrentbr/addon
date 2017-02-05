@@ -22,12 +22,16 @@
     <category label="30033">
         <!-- Appearance -->
         <setting label="30033" type="lsep" />
+        <setting id="default_fanart" label="30092" type="bool" default="true" />
+        <setting id="do_not_disturb" label="30093" type="bool" default="false" />
         <setting id="viewmode_movies" label="30034" type="number" default="" />
         <setting id="viewmode_tvshows" label="30035" type="number" default="" />
         <setting id="viewmode_seasons" label="30036" type="number" default="" />
         <setting id="viewmode_episodes" label="30037" type="number" default="" />
-        <setting id="default_fanart" label="30092" type="bool" default="true" />
-        <setting id="do_not_disturb" label="30093" type="bool" default="false" />
+        <setting id="viewmode_menus_movies" label="30142" type="number" default="" />
+        <setting id="viewmode_menus_tvshows" label="30143" type="number" default="" />
+        <setting id="viewmode_menus_movies_genres" label="30144" type="number" default="" />
+        <setting id="viewmode_menus_tvshows_genres" label="30145" type="number" default="" />
     </category>
     <category label="BitTorrent">
         <!-- BitTorrent -->

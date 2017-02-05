@@ -467,6 +467,10 @@ msgctxt "#30118"
 msgid "Scraping trackers..."
 msgstr ""
 
+msgctxt "#30141"
+msgid "Please support Quasar development by visiting https://quasar.surge.sh/donate"
+msgstr ""
+
 
 # Quasar daemon
 

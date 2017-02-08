@@ -495,6 +495,10 @@ msgctxt "#30145"
 msgid "Default view for TV show genres"
 msgstr ""
 
+msgctxt "#30199"
+msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
+msgstr ""
+
 
 # Quasar daemon
 

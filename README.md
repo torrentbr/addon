@@ -27,9 +27,9 @@ See the [Releases](https://github.com/scakemyer/plugin.video.quasar/releases) pa
 
 Installation
 ------------
+- Go to Settings > Service settings > Control and **enable both Application control options**
+- Restart Kodi if one or both options were not enabled
 - Install Quasar like any other add-on
-- Go to Settings > Services > Remote Control and **enable both options**
-- Restart Kodi
 
 Build
 -----

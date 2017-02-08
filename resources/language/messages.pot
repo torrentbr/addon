@@ -133,7 +133,7 @@ msgid "Connections limit"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Background handling of torrents"
+msgid "Do not ask to keep downloading"
 msgstr ""
 
 msgctxt "#30029"
@@ -493,6 +493,10 @@ msgstr ""
 
 msgctxt "#30145"
 msgid "Default view for TV show genres"
+msgstr ""
+
+msgctxt "#30146"
+msgid "Keep downloading?"
 msgstr ""
 
 msgctxt "#30199"

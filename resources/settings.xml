@@ -10,14 +10,14 @@
         <setting id="background_handling" type="bool" label="30028" default="false" />
         <setting id="keep_files" type="bool" label="30002" default="false" />
         <setting id="keep_files_ask" type="bool" label="30087" default="false" />
-        <setting id="results_per_page" type="number" label="30021" default="9" />
+        <setting id="results_per_page" label="30021" type="slider" option="int" range="3,1,30" default="9" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
         <setting id="overlay_status_offset" type="number" label="30030" default="150" subsetting="true" visible="eq(-1,true)" />
         <setting id="use_original_title" type="bool" label="30038" default="false" />
         <setting id="add_specials" type="bool" label="30055" default="false" />
         <setting id="unaired_seasons" type="bool" label="30284" default="false" />
         <setting id="unaired_episodes" type="bool" label="30285" default="false" />
-        <setting id="buffer_timeout" type="number" label="30088" default="300" />
+        <setting id="buffer_timeout" label="30088" type="slider" option="int" range="60,15,900" default="300" />
     </category>
     <category label="30033">
         <!-- Appearance -->
@@ -41,7 +41,7 @@
         <setting id="max_download_rate" label="30005" type="number" default="" />
         <setting id="limit_after_buffering" label="30025" type="bool" default="false" />
         <setting id="connections_limit" label="30027" type="number" default="" />
-        <setting id="session_save" label="30029" type="number" default="15" />
+        <setting id="session_save" label="30029" type="slider" option="int" range="5,5,60" default="15" />
         <setting id="share_ratio_limit" label="30051" type="number" default="" />
         <setting id="seed_time_ratio_limit" label="30052" type="number" default="" />
         <setting id="seed_time_limit" label="30053" type="number" default="" />
@@ -58,18 +58,18 @@
     <category label="30239">
         <!-- Sorting -->
         <setting label="30041" type="lsep" />
-        <setting id="sorting_mode_movies" label="30042" type="enum" lvalues="30044|30045|30046" />
-        <setting id="sorting_mode_shows" label="30043" type="enum" lvalues="30044|30045|30046" />
+        <setting id="sorting_mode_movies" label="30042" type="enum" lvalues="30044|30045|30046" default="2" />
+        <setting id="sorting_mode_shows" label="30043" type="enum" lvalues="30044|30045|30046" default="2" />
         <setting id="resolution_preference_movies" label="30047" type="enum" values="1080p / 720p / 480p|720p / 1080p / 480p|720p / 480p / 1080p|480p / 720p / 1080p" />
         <setting id="resolution_preference_shows" label="30048" type="enum" values="1080p / 720p / 480p|720p / 1080p / 480p|720p / 480p / 1080p|480p / 720p / 1080p" />
         <setting id="percentage_additional_seeders" label="30049" type="number" default="25" />
         <!-- Providers -->
         <setting label="30239" type="lsep" />
         <setting id="provider_disable_failing" label="30031" type="bool" default="true" />
-        <setting id="provider_allowed_failures" label="30032" type="number" default="3" />
+        <setting id="provider_allowed_failures" label="30032" type="slider" option="int" range="0,1,10" default="3" />
         <setting label="30016" type="lsep" />
         <setting id="custom_provider_timeout_enabled" label="30017" type="bool" default="false" />
-        <setting id="custom_provider_timeout" label="30018" type="number" default="4" visible="eq(-1,true)" />
+        <setting id="custom_provider_timeout" label="30018" type="slider" option="int" range="10,1,30" default="10" visible="eq(-1,true)" />
     </category>
     <category label="30008">
         <!-- Proxy -->
@@ -91,14 +91,14 @@
         <setting label="30019" type="lsep" />
         <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.quasar/cmd/clear_cache)" />
         <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.quasar/library/update)" />
-        <setting id="library_update_delay" type="number" label="30059" default="300" />
-        <setting id="library_update_frequency" type="number" label="30060" default="8" />
+        <setting id="library_update_delay" label="30059" type="slider" option="int" range="10,10,900" default="300" />
+        <setting id="library_update_frequency" label="30060" type="slider" option="int" range="0,1,24" default="6" />
         <setting id="library_auto_scan" type="bool" label="30089" default="true" />
         <setting label="30056" type="lsep" />
         <setting type="action" label="30058" action="RunPlugin(plugin://plugin.video.quasar/trakt/authorize)" />
         <setting id="trakt_username" type="text" label="30057" default="" />
         <setting id="trakt_scrobble" type="bool" label="Scrobble" default="false" />
-        <setting id="trakt_sync" type="number" label="30061" default="0" />
+        <setting id="trakt_sync" label="30061" type="slider" option="int" range="0,1,24" default="0" />
         <setting id="trakt_token" type="text" label="Trakt token" default="" visible="false" />
         <setting id="trakt_refresh_token" type="text" label="Trakt refresh token" default="" visible="false" />
         <setting label="CloudHole" type="lsep" />

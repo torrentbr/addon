@@ -42,9 +42,9 @@
         <setting id="limit_after_buffering" label="30025" type="bool" default="false" />
         <setting id="connections_limit" label="30027" type="number" default="" />
         <setting id="session_save" label="30029" type="slider" option="int" range="5,5,60" default="15" />
-        <setting id="share_ratio_limit" label="30051" type="number" default="" />
-        <setting id="seed_time_ratio_limit" label="30052" type="number" default="" />
-        <setting id="seed_time_limit" label="30053" type="number" default="" />
+        <setting id="share_ratio_limit" label="30051" type="number" default="25" />
+        <setting id="seed_time_ratio_limit" label="30052" type="number" default="200" />
+        <setting id="seed_time_limit" label="30053" type="number" default="1" />
         <setting id="disable_dht" label="30050" type="bool" default="false" />
         <setting id="disable_upnp" label="30063" type="bool" default="false" />
         <setting id="encryption_policy" label="30064" type="enum" lvalues="30010|30065|30066" />

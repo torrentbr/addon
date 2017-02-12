@@ -101,6 +101,7 @@
         <setting id="trakt_sync" label="30061" type="slider" option="int" range="0,1,24" default="0" />
         <setting id="trakt_token" type="text" label="Trakt token" default="" visible="false" />
         <setting id="trakt_refresh_token" type="text" label="Trakt refresh token" default="" visible="false" />
+        <setting id="trakt_token_expiry" type="number" label="Trakt token expiry" default="0" visible="false" />
         <setting label="CloudHole" type="lsep" />
         <setting id="use_cloudhole" type="bool" label="30240" default="false" />
         <setting id="cloudhole_key" type="text" label="30040" default="" />

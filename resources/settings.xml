@@ -24,6 +24,7 @@
         <setting label="30033" type="lsep" />
         <setting id="default_fanart" label="30092" type="bool" default="true" />
         <setting id="do_not_disturb" label="30093" type="bool" default="false" />
+        <setting id="disable_bg_progress" label="30094" type="bool" default="false" />
         <setting id="viewmode_movies" label="30034" type="number" default="" />
         <setting id="viewmode_tvshows" label="30035" type="number" default="" />
         <setting id="viewmode_seasons" label="30036" type="number" default="" />

@@ -393,7 +393,11 @@ msgid "Use default fanart"
 msgstr ""
 
 msgctxt "#30093"
-msgid "Do Not Disturb mode"
+msgid "Disable notification sound"
+msgstr ""
+
+msgctxt "#30094"
+msgid "Disable background progress dialog"
 msgstr ""
 
 

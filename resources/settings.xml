@@ -6,6 +6,7 @@
         <setting id="download_path" type="folder" label="30001" source="auto" option="writeable" />
         <setting id="library_path" type="folder" label="30026" source="auto" option="writeable" />
         <setting id="library_tv_scraper" label="30115" type="enum" lvalues="30114|30039|30056" />
+        <setting id="library_resume" label="30095" type="enum" lvalues="30096|30097|30098" default="2" />
         <setting id="choose_stream_auto" type="bool" label="30023" default="false" />
         <setting id="background_handling" type="bool" label="30028" default="false" />
         <setting id="keep_files" type="bool" label="30002" default="false" />

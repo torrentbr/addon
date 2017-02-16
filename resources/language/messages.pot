@@ -400,6 +400,22 @@ msgctxt "#30094"
 msgid "Disable background progress dialog"
 msgstr ""
 
+msgctxt "#30095"
+msgid "Resume playback from library integration"
+msgstr ""
+
+msgctxt "#30096"
+msgid "Never"
+msgstr ""
+
+msgctxt "#30097"
+msgid "Always"
+msgstr ""
+
+msgctxt "#30098"
+msgid "Active torrents only"
+msgstr ""
+
 
 # Interface
 

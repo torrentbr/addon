@@ -1,4 +1,14 @@
-<!--- Provide a general summary of the issue in the Title above -->
+<!--- ISSUES ABOUT PROVIDERS DO NOT BELONG HERE -->
+<!--- If you open an issue about providers, it will get closed,
+      its title and content will get removed, and your GitHub
+      account will be blocked from this repository.
+      Proceed to the next steps if you understand this warning. -->
+
+<!--- Describe the issue briefly and as best as you can in the Title above -->
+<!--- Issue titles like "Last version crashes", "0.9.x crashing",
+      or "Nothing works after update" are the worst. Put some effort
+      in describing your issue properly, and we'll put some effort
+      in fixing it as soon as possible -->
 <!--- Bug reports without logs will likely be dismissed and closed -->
 
 ## Expected Behavior
@@ -28,7 +38,10 @@
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
 * Version used:
-* Environment name and version (e.g. Kodi 15/16/17, SPMC, OSMC, OpenELEC):
-* Operating System and version (Android 4/5/6, Windows 7/8/10, macOS 10.11, Ubuntu 16.10):
+<!--- Which version of Quasar are you using? -->
+* Environment name and version:
+<!--- Which Kodi version (16 [Jarvis] or 17 [Krypton]) and OS, eg. SPMC, OSMC, OpenELEC, LibreELEC, etc. -->
+* Operating System and version:
+<!--- eg. Android 4/5/6, Windows 7/8/10, macOS 10.11, Ubuntu 16.10, etc. -->
 * Link to Kodi debug log:
-<!--- See http://kodi.wiki/view/Log_file/Easy or paste to http://paste.ubuntu.com directly
+<!--- See http://kodi.wiki/view/Log_file/Easy or paste to http://paste.ubuntu.com directly -->

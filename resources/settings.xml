@@ -7,13 +7,17 @@
         <setting id="library_path" type="folder" label="30026" source="auto" option="writeable" />
         <setting id="library_tv_scraper" label="30115" type="enum" lvalues="30114|30039|30056" />
         <setting id="library_resume" label="30095" type="enum" lvalues="30096|30097|30098" default="2" />
+        <setting id="completed_move" type="bool" label="30301" default="false" />
+          <setting id="completed_movies_path" type="folder" label="30214" source="auto" option="writeable" subsetting="true" visible="eq(-1,true)" />
+          <setting id="completed_shows_path" type="folder" label="30215" source="auto" option="writeable" subsetting="true" visible="eq(-2,true)" />
+          <setting id="completed_help" label="30302" type="text" enable="false" subsetting="true" visible="eq(-3,true)" />
         <setting id="choose_stream_auto" type="bool" label="30023" default="false" />
         <setting id="background_handling" type="bool" label="30028" default="false" />
         <setting id="keep_files" type="bool" label="30002" default="false" />
         <setting id="keep_files_ask" type="bool" label="30087" default="false" />
         <setting id="results_per_page" label="30021" type="slider" option="int" range="3,1,30" default="9" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
-        <setting id="overlay_status_offset" type="number" label="30030" default="150" subsetting="true" visible="eq(-1,true)" />
+          <setting id="overlay_status_offset" type="number" label="30030" default="150" subsetting="true" visible="eq(-1,true)" />
         <setting id="use_original_title" type="bool" label="30038" default="false" />
         <setting id="add_specials" type="bool" label="30055" default="false" />
         <setting id="unaired_seasons" type="bool" label="30284" default="false" />
@@ -77,11 +81,11 @@
         <!-- Proxy -->
         <setting label="30008" type="lsep" />
         <setting id="socks_enabled" label="30010" type="bool" default="false" />
-        <setting id="proxy_type" label="30067" type="enum" default="2" subsetting="true" lvalues="30068|30069|30070|30071|30072|30073" visible="eq(-1,true)" />
-        <setting id="socks_host" label="30011" type="text" default="" subsetting="true" visible="eq(-2,true)" />
-        <setting id="socks_port" label="30012" type="number" default="1080" subsetting="true" visible="eq(-3,true)" />
-        <setting id="socks_login" label="30013" type="text" default="" subsetting="true" visible="eq(-4,true)" />
-        <setting id="socks_password" label="30014" type="text" default="" option="hidden" subsetting="true" visible="eq(-5,true)" />
+          <setting id="proxy_type" label="30067" type="enum" default="2" subsetting="true" lvalues="30068|30069|30070|30071|30072|30073" visible="eq(-1,true)" />
+          <setting id="socks_host" label="30011" type="text" default="" subsetting="true" visible="eq(-2,true)" />
+          <setting id="socks_port" label="30012" type="number" default="1080" subsetting="true" visible="eq(-3,true)" />
+          <setting id="socks_login" label="30013" type="text" default="" subsetting="true" visible="eq(-4,true)" />
+          <setting id="socks_password" label="30014" type="text" default="" option="hidden" subsetting="true" visible="eq(-5,true)" />
     </category>
     <category label="OpenSubtitles">
         <setting label="OpenSubtitles" type="lsep" />

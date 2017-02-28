@@ -121,7 +121,7 @@ msgid "Get updates for pre-releases"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Limit rates after buffering only"
+msgid "Limit rates after initial buffering only"
 msgstr ""
 
 msgctxt "#30026"
@@ -940,4 +940,13 @@ msgstr ""
 
 msgctxt "#30300"
 msgid "All Premieres"
+msgstr ""
+
+msgctxt "#30301"
+msgid "Move finished downloads to separate folders"
+msgstr ""
+
+msgctxt "#30302"
+msgid "Files will only be moved after 'Seed time limit' has passed[CR]"
+"- (see BitTorrent settings), and will wait if currently playing"
 msgstr ""

@@ -943,6 +943,6 @@ msgid "Move finished downloads to separate folders"
 msgstr ""
 
 msgctxt "#30302"
-msgid "Files will only be moved after 'Seed time limit' has passed[CR]"
-"- (see BitTorrent settings), and will wait if currently playing"
+msgid "Files will only be moved after seeding is finished (see[CR]"
+"- BitTorrent settings), and will wait if currently playing"
 msgstr ""

@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/scakemyer/plugin.video.quasar.svg?branch=master)](https://travis-ci.org/scakemyer/plugin.video.quasar)
 [![Join the chat at https://gitter.im/QuasarHQ/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/QuasarHQ/Lobby)
+[![Bountysource](https://www.bountysource.com/badge/team?team_id=133972&style=bounties_received)](https://www.bountysource.com/teams/plugin.video.quasar)
 
 What it is
 ----------

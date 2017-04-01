@@ -950,3 +950,29 @@ msgctxt "#30302"
 msgid "Files will only be moved after seeding is finished (see[CR]"
 "- BitTorrent settings), and will wait if currently playing"
 msgstr ""
+
+msgctxt "#30303"
+msgid "RAR archive detected. Download will need to be completed before"
+" playback can start and will require around twice the amount of"
+" space, continue?"
+msgstr ""
+
+msgctxt "#30304"
+msgid "Error creating output pipe for 'unrar' command"
+msgstr ""
+
+msgctxt "#30305"
+msgid "Error starting 'unrar' command"
+msgstr ""
+
+msgctxt "#30306"
+msgid "Error waiting for 'unrar' command"
+msgstr ""
+
+msgctxt "#30307"
+msgid "Error reading from destination folder"
+msgstr ""
+
+msgctxt "#30308"
+msgid "Move completed"
+msgstr ""

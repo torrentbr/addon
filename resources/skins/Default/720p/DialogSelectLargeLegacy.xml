@@ -110,7 +110,7 @@
 						<top>0</top>
 						<width>815</width>
 						<height>60</height>
-						<texture colordiffuse="16FFFFFF">List/focus.png</texture>
+						<texture>List/focus.png</texture>
 					</control>
 					<control type="image">
 						<left>5</left>
